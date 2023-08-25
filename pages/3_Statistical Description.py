@@ -40,7 +40,7 @@ tables = [
 ]
 
 # Check if the statistics-result directory exists
-results_dir = "../statistics-result"
+results_dir = "statistics-result"
 load_from_directory = os.path.exists(results_dir)
 global_stats_df = {}
 
