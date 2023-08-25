@@ -6,4 +6,6 @@ leafmap
 nbserverproxy
 owslib
 streamlit
+db_dtypes
+
 
