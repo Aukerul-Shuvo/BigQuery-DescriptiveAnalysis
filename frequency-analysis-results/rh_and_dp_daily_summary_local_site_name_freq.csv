@@ -1,0 +1,841 @@
+local_site_name,count
+UTM COORDINATES AT MET TOWER,19237
+Houston Deer Park #2,16101
+El Paso Chamizal,15910
+El Paso UTEP,15837
+Denton Airport South,15820
+Houston Aldine,15773
+Ascarate Park SE,15624
+Grapevine Fairway,15598
+Fort Worth Northwest,15387
+Kaufman,15334
+Gary-IITRI/ 1219.5 meters east of Tennessee St.- old ammuntion bunker,15196
+Northwest Harris County,14270
+Channelview,14115
+ST. PHILLIPS- St. Phillips road CAAP trailer,13496
+Dallas Hinton,12979
+Clinton,12468
+Lone Pine Paiute-Shoshone Reservation,12198
+SAGUARO PARK,12170
+416 S. State St. Hwy 1- West Union,12058
+SITE MOVED ACROSS ROAD FROM BEARD CENTER TO BEHIND IORI RESEARCH BLD,11924
+McAuliffe Park,11323
+NIPSCO Dunes Acres,11177
+Hawaii Volcanoes NP - Kilauea Visitors Center,11130
+Park Place,11055
+22ND & CRAYCROFT,10801
+Thousand Oaks,10628
+El Rio-Rio Mesa School #2,10594
+Simi Valley-Cochran Street,10592
+MCFARLAND HILL Air Pollutant Research Site,10537
+Garinger High School,10472
+Italy,10442
+Capitol,10304
+Essex,10258
+Galveston 99th Street,10030
+Edgewood,10003
+New Haven,9978
+Charlestown State Park- 1051.8 meters East of SR 62/ Indiana armory,9972
+Azusa,9959
+LYNN WATER TREATMENT PLANT,9814
+EISENHOWER PARK,9764
+Clovis-Villa,9733
+"SITE IN SIMI VALLEY LANDFILL. NEAREST TRAFFIC HWY 118, SO, 1/2 MI.",9727
+Upland,9699
+Dayville,9664
+Crestline,9639
+Parlier,9624
+Public Health,9568
+Ivanhoe,9524
+Ojai - East Ojai Ave,9510
+HOBERG-PINE SUMMIT,9497
+GLENBROOK,9483
+Ft. Wayne- Beacon St.,9477
+HAMMOND CAAP- Hammond- 141st St.,9477
+Sacramento-Del Paso Manor,9420
+South DeKalb,9354
+PISECO LAKE,9352
+WHITE PLAINS,9318
+Rubidoux,9260
+Los Angeles-North Main Street,9246
+TRURO NATIONAL SEASHORE,9178
+Corsicana Airport,9165
+ANDERSON SPRINGS,9106
+"Mount Rainier National Park, Tahoma Woods",9104
+PAINTED CANYON,9000
+Alpine,8969
+"TRAFFIC, RURAL PAVED ROAD",8890
+Indpls- Washington Park/  in parking lot next to police station,8852
+Sacramento-1309 T Street,8819
+Madera-Pump Yard,8818
+BELLEAYRE MOUNTAIN,8809
+NICKS LAKE,8769
+QUABBIN RES,8730
+Mechanicsburg- Shenandoah HS/ behind the football field,8709
+NIPSCO Schahfer,8706
+Stockton-Hazelton,8704
+Banning Airport,8662
+WESTFIELD,8639
+Mohawk Mt-Cornwall,8617
+Bakersfield-California,8599
+EAST SYRACUSE,8584
+Folsom-Natoma St.,8551
+Roseville-N Sunrise Ave,8498
+Fair Hill Natural Resource Management Area,8425
+San Bernardino,8419
+GRAYSON LAKE,8241
+WESTOVER AFB,8159
+Millbrook School,8133
+Fort Independence Indian Community,8091
+Millington,8084
+Hawthorne,8083
+DUDLEY SQUARE ROXBURY,8000
+CETL - Cape Elizabeth Two Lights (State Park),7994
+Aldino,7959
+Thunder Basin,7915
+JLG SUPERSITE,7915
+Holland,7864
+Piru - Pacific,7855
+Buffalo,7792
+ELMIRA,7790
+Allen Park,7695
+PROPERTY OWNED BY DEARBORN PUBLIC SCHOOLS,7673
+Rider University,7601
+NIAGARA FALLS,7591
+SUSAN WAGNER HS,7585
+East 7 Mile,7583
+Elk Grove-Bruceville,7566
+STATION NEAR INTERSECTION OF WHITEROCK CANYON RD & QURAY CANAL,7520
+Union Cross,7501
+Fort Mountain,7475
+South Bend-Shields Dr.,7445
+STATION LOCATED NEAR INTERSECTION OF 6000 SO & 10000 WEST,7419
+MT NINHAM,7404
+St. Joseph Pump Station,7398
+LOSTWOOD NWR,7379
+CAMP GEORGETOWN,7377
+WHITEFACE BASE,7347
+Shafter,7342
+Canyonlands NP - Island in the Sky,7330
+Great Smoky Mountains NP - Look Rock,7325
+Big Bend NP - K-Bar Ranch Road,7315
+Mesa Verde NP - Resource Management Area,7305
+Chiricahua NM - Entrance Station,7299
+Mammoth Cave NP - Houchin Meadow,7278
+Burbank,7278
+El Cajon,7276
+SCHENECTADY,7270
+Lassen Volcanic NP - Manzanita Lake Fire Station,7265
+Yosemite NP - Turtleback Dome,7260
+Rocky Mountain NP - Long's Peak,7246
+Pinnacles NP - Southwest of East Entrance Station,7233
+Shenandoah NP - Big Meadows,7230
+LOUDONVILLE,7221
+Voyageurs NP - Sullivan Bay,7195
+Visalia-Airport,7190
+DUNKIRK,7179
+Pride,7164
+SE OF EL CID & PARQUE INDUSTRIAL INTERSECTION,7154
+Blair Street,7147
+"Yorkville, King Farm",7132
+Joshua Tree NP - Black Rock,7119
+San Jose - Jackson,7102
+Great Basin NP - Maintenance Yard,7080
+Great Smoky Mountains NP - Cove Mountain,7055
+Grand Canyon NP - The Abyss,7037
+Bayou Plaquemine,7014
+Anaheim,7004
+Yellowstone NP - Water Tank,6986
+Long Beach (North),6985
+TAHLEQUAH SHELTER,6979
+Great Smoky Mountains NP - Cade's Cove,6955
+Goleta,6936
+AMHERST,6912
+SE OF HAAN & PLEASONTON STREETS INTERSECTION,6901
+Southwestern H.S.,6859
+GREEN VALLEY  -REPLACES SITE 0007 245 W ESPERANZA,6849
+ROSE ELEMENTARY,6848
+COACHLINE,6837
+Bryson City,6812
+Sequoia & Kings Canyon NPs - Ash Mountain,6797
+Conyers,6796
+Medford MET STATION IS BY ROSSANLY DRIVE AND ROSS LANE (MTV),6718
+Indpls- Harding St.,6710
+Wind Cave NP - Visitor Center,6669
+Flora-Flora Airport,6668
+Denali NP & PRES - Headquarters,6627
+Calexico-Ethel Street,6627
+Olancha,6611
+STILWELL,6497
+PG Equestrian Center,6479
+Paradise - Airport,6465
+NEWKIRK IMPROVE,6453
+Criscuolo Park-New Haven,6434
+Chico-Manzanita Ave.,6369
+CHEROKEE HEIGHTS,6366
+CONSENTINO SCHOOL.,6318
+Brownstown- 225 W & 200 N. Water facility,6301
+"ADA COUNTY FAIRGROUNDS, ACROSS INTERSECTION OF ALWORTH AND LORIMAR",6258
+SEATTLE - BEACON HILL,6251
+ FRANCIS SCHOOL East Providence,6246
+Piney Run,6241
+WASHAKIE,6240
+BOTANICAL GARDEN,6215
+Bishop Tribe EMO,6195
+Hawaii Volcanoes NP - The Observatory,6157
+BUFFALO,6130
+Sherwood Island Connector (see coordinates),6125
+Boulder,6122
+LAKE SUGEMA STATE PARK II,6118
+TONAWANDA,6093
+Nederland High School,6062
+Tucker-Idlewood Road,6056
+GRAND JUNCTION - PITKIN,6050
+Daniel South,6027
+Kearny Mesa,6001
+BLUE HILL OBSERVATORY,5982
+Portland - SE Lafayette,5980
+HU-Beltsville,5961
+ Davidsonville,5943
+Lenoir Co. Comm. Coll.,5927
+Pinnacles National Park,5900
+"Rocky Mountain National Park, Long's Peak",5871
+"DAVENPORT, JEFFERSON SCH.",5868
+VIKING LAKE STATE PARK,5831
+Wadsworth Air  and Meteorological Monitoring Site,5798
+Wamsutter,5768
+CARPENTER,5724
+Coso Junction,5711
+Padonia,5687
+WORCESTER AIRPORT,5686
+Bountiful Viewmont,5667
+NAUGHTON POWER PLANT PM10 SITE .25 MILE EAST OF POWER PLANT,5618
+Lassen Volcanic National Park,5580
+"Great Smoky Mountains National Park, Look Rock",5568
+QUAPAW SHELTER,5529
+"Big Bend National Park, K-Bar Ranch Road",5528
+Sequoia & Kings Canyon NPs - Lower Kaweah,5523
+UTM COORDINATES TAKEN FROM MET TOWER LOCATION,5489
+Arvin-Bear Mtn,5467
+Bakersfield-Golden/M St,5445
+BOSTON LONG ISLAND,5444
+ROCHESTER 2,5425
+Columbus-Crime Lab,5415
+FARGO NW,5406
+GALVESTON ISLAND,5401
+Augusta,5401
+SE OF OLD HUECO TANKS & NORTH LOOP INTERSECTION,5394
+South Pass,5388
+Campbell County,5385
+South Lake Tahoe-Sandy Way,5369
+State of Vermont District Court Parking Lot,5337
+Pico Rivera #2,5295
+MILLBROOK,5182
+PARR,5169
+SOUTH BEND CAAP,5149
+St. Marks Wildlife Refuge,5147
+Southwick,5146
+SE OF TOMAS FERNANDEZ & AVENIDA DE LA INDUSTRIA INTERSECTION,5133
+Black Thunder Admin Met Station,5114
+PROCTOR MAPLE RESEARCH CTR,5101
+JFK,5056
+Near Road,5051
+Murphy Ridge,4986
+NORTH OF TOWER RD. & WATERWORKS RD. INTERSECTION,4968
+"3425 N FIRST ST, FRESNO",4962
+Portage- Hwy 12,4962
+Black Hills Power Site 4,4954
+DEL NORTE HIGH SCHOOL,4942
+Indpls.- E. 16th St.,4940
+Wyoming Refining,4928
+Coal Creek Mine Meteorological Station,4923
+Fontana,4915
+SITE 20/30 CLUB SPECIAL PURPOSE MONITORING NETWORK,4900
+Lake Elsinore,4897
+UTE 3,4884
+White Mountain Research Center - Owens Valley Lab,4874
+Westvaco #002,4860
+UXBRIDGE,4849
+UTE 1,4844
+"Canyonlands National Park, Island in the Sky",4839
+Pinedale Gaseous,4838
+Glendora,4829
+Jim Bridger Meteorological Station,4803
+Indio,4793
+Willows-Colusa Street,4790
+POTAWATOMI,4782
+Nederland 17th Street,4780
+Evans,4761
+ARMY RESERVE CENTER ROOF- CORE MONITORING SITE,4750
+Coso Gate,4742
+"Craters of the Moon National Monument, Visitor Center",4736
+Sandpoint,4728
+Perris,4726
+Mission Viejo,4716
+Morse Airport - State of Vermont Property,4706
+Grangeville,4663
+Michigan City- 4th Street  NIPSCO Gas Station- Michigan City 4th St.,4651
+CCRI Liston Campus ROOFTOP,4639
+Spring Creek,4587
+Jerseydale,4563
+"Mesa Verde National Park, Resource Management Area",4562
+Rockville,4525
+Pinehurst,4517
+Compton,4493
+Great Basin National Park,4490
+Chiricahua National Monument,4473
+Klamath Falls - Peterson School,4414
+ZAMPIERI STATE OFFICE BUILDING,4399
+Juel Spring,4382
+PINNACLE STATE PARK,4352
+Santa Clarita,4348
+HORICON WILDLIFE AREA,4345
+GT Craig NCore,4343
+ISWS CLIMATE STATION,4323
+William Owen School,4320
+"Rangely, Golf Course",4314
+Joshua Tree NP - Pinto Wells,4304
+Basin,4299
+Hagerstown,4279
+City of Burlington Parking Lot,4272
+420 E. LAUREL ST.,4266
+Lewiston,4263
+PRIMARY PARTICULATE AND METEOROLOGICAL MONITORING SITE,4262
+Mendenhall School,4255
+South Carroll,4252
+"Yosemite National Park, Turtleback Dome",4238
+Moxa Arch,4236
+CANNONS LANE,4229
+LA GRANDE ASH STREET,4217
+Michigan City- W. Michigan Blvd./  NIPSCO Gas Station,4215
+GLACIER NATIONAL PARK,4172
+TULSA SOUTH,4170
+TRONOX GRANGER SITE #7,4161
+LAWTON NORTH,4153
+Palm Springs,4150
+LOCATED NEAR VISITORS CENTER,4141
+Indpls.- I 70,4117
+Mira Loma (Van Buren),4116
+Lawrenceville,4112
+OKC NORTH,4112
+"Shenandoah National Park, Big Meadows",4108
+Jerome Mack-NCore,4106
+CHEEKA PEAK,4094
+Petrified Forest NP - South Entrance,4091
+Taft NCore,4078
+Craters of the Moon NM & PRES - Visitor Center,4076
+4102 Woolworth Ave. on Healthcenter Warehouse,4073
+Bend Deschutes County Road Department (BRD),4070
+TOP OF CADILLAC MTN (FENCED ENCLOSURE),4056
+NCORE - Sieben Flats,4049
+TULSA EAST,4023
+Preble NCore,4020
+OKC WEST-(YUKON),4019
+Cheyenne NCore,4018
+GR-MONROE,4014
+Big Piney Site #3,4013
+MANNFORD,4004
+NORTH TULSA - FIRE STATION#24,3995
+MOOSEHILL SCHOOL,3995
+JARDINE WATER PLANT,3989
+Meridian - St. Luke's,3983
+CHILDREN'S PARK NCore,3964
+CHOCTAW,3962
+Joshua Tree NP - Cottonwood,3953
+PARKLANE,3934
+HOLTSVILLE,3933
+Pocatello - Garrett and Gould,3932
+Grand Teton NP - Science School,3916
+Linville Falls,3914
+Van Buren,3914
+Glacier NP - West Glacier Horse Stables,3899
+ECHOLS,3897
+Coeur d'Alene - Lancaster Rd.,3895
+Seney,3892
+Prineville - Davidson Park,3888
+MILLER STATE PARK,3866
+South Broadway,3861
+Madera-City,3860
+Branch Street,3827
+El Dorado Springs,3824
+AURARIA - MET STATION,3814
+HAZARD,3776
+"Seney SENEY NAT'L WILDLIFE REFUGE, HCR2, BOX 1",3735
+SCHOOLCRAFT COLLEGE,3730
+Arnold West,3722
+QUEENS COLLEGE 2,3713
+CENTER OF PARKING LOT OF PUBLIC WORKS BUILDING 1/4 MI N OF SINCLAIR,3710
+Atlantic Rim Sun Dog,3705
+Horn Point,3701
+"STATION 48-B, MONITORING SHELTER AND MET TOWER LOCATED IN FIELD AT",3688
+Liberty,3680
+CAMP LOGAN TRAILER,3672
+Joshua Tree National Park - Black Rock,3668
+Zion NP - Dalton's Wash,3664
+SITE IS IN A FIELD WEST OF THE NIXON POWER PLANT,3649
+White Cloud,3618
+DYKEN POND,3613
+Haystack Upwind,3610
+WEST JORDAN,3605
+Kearny Villa Rd.,3600
+Charlestown CAAP,3588
+Troost,3582
+Natural Bridge Ranger Station,3575
+Redwood NP,3554
+Walker River Paiute Tribe Air Quality Site,3546
+Richard Gebaur-South,3542
+Death Valley NP - Park Village,3539
+Kapolei,3534
+"Sequoia and Kings Canyon National Park, Lower Kaweah",3521
+MLK  CORNER OF MLK BLVD AND JUSTISON ST,3518
+POINT REYES IMPROV SITE.,3516
+"Rocky Mountain School, Carbondale",3507
+Lindon,3497
+Death Valley National Park,3494
+Great Smoky Mountains NP - Clingman's Dome,3488
+La Casa,3475
+Yellowstone National Park - Old Faithful Snow Lodge,3473
+Memphis NCORE site,3471
+NORTHBROOK WATER PLANT,3460
+Bakersfield-Muni,3414
+Larwill- Whitko Career Academy,3407
+SYDNEY,3397
+FT MEADE LAT/LONG POINT IS OF THE SAMPLING INLET,3378
+Ladue,3370
+Forest Park,3361
+inactive military resv 680 hudson rd sudbury ma 2 mi on left,3357
+North Birmingham,3346
+Hiawatha,3346
+___________NO INFORMATION AT THIS TIME,3315
+MCMILLAN  NCore-PAMS,3307
+CAMDEN LAB,3303
+BAD RIVER TRIBAL SCHOOL - ODANAH,3299
+"PUEBLO OF JEMEZ TRIBAL TRUST LANDS, DEPARTMENT OF RESOURCE PROTEC-",3287
+Antelope Mine Meteorological Station,3285
+"CLINTON, CHANCY PARK",3263
+Ciner Met Station,3259
+LOCATED APPROXIMATELY 1 MILE NORTH OF I-5 AND I-80 FREEWAYS,3244
+"Blue Ridge, I-70",3192
+JAMESTOWN,3183
+Moscow,3178
+Long Beach (Hudson),3151
+GRAFTON STATE PARK,3132
+"10 METER TOWER, AT NW CORNER, U OF I RESEARCH CENTER",3127
+"Mammoth Cave National Park, Houchin Meadow",3122
+SITE LOCATED OFF PARKING LOT 2.,3117
+Jackson NCORE,3101
+Stn.1 Big Pine Paiute site,3097
+VON HILLERN ST,3096
+LAX Hastings,3092
+FAIRHAVEN2,3080
+"VOYAGEURS NATIONAL PARK, NEAR SULLIVAN BAY",3074
+Sacramento-Goldenland Ct.,3065
+Fortification Creek (WARMS site),3061
+Columbia,3045
+(Southwest side),3012
+Candor: EPA CASTNet Site,3007
+(Northeast corner),3003
+Joanna Bald,2986
+Temecula,2972
+Newark Firehouse,2950
+Tata Site 1,2950
+MUSKOGEE WATER TREATMENT PLANT,2938
+West Alton,2928
+Battlement Mesa,2918
+Howard County Near Road,2915
+ANADARKO PM2.5,2905
+Weitchpec E-BAM,2877
+Greenfield 16 Barr Ave,2874
+COLORADO SPRINGS - HIGHWAY 24,2865
+Arkadelphia/Near Road,2851
+MINE CREEK,2834
+"Plummer, 2500 S. W- Citizens gas Plummer maintenance faciliy",2825
+GOLF LINKS,2822
+Reno3,2817
+Fresno - Garland,2795
+"Grand Canyon National Park, The Abyss",2790
+Long Beach (South),2781
+Parkway East Near-Road,2769
+Mill Site,2764
+Mojave NP & PRES - Kelso Mountains,2755
+GOLDSBY,2737
+Urban League BUILDING ROOFTOP,2734
+NEWBURYPORT HARBOR ST PARKING LOT,2734
+Kanza Travel Plaza,2713
+Herriman #3,2709
+CTCLUSI Radar Hill - OR,2696
+Roosevelt,2682
+Remount,2677
+Vernal #4,2677
+North East Waste (NEW),2669
+Solvay Meteorological Station,2657
+ALCOA P2,2635
+OPEN FIELD NEAR RESIDENTIAL AREA AT 6000 PULPIT ROCK DRIVE.,2631
+"CRUZ BAY, ST JOHN U.S. VIRGIN ISLANDS",2622
+MEADOWLARK FARM,2608
+Monastery,2607
+Andersen Windows South,2585
+Torresdale Station,2573
+RPL- Substation,2557
+AJ,2552
+Hillcrest High School,2534
+Converse County Long-Term,2534
+Point Reyes NS Ranger Station,2522
+Muscatine HS - East Campus School Trailer,2521
+PECK,2507
+West Yellowstone Park Ent #2,2481
+Globeville,2469
+Anaheim Near-Road,2465
+"Rider Trail, I-70",2438
+Klamath Glen E-BAM,2427
+SD School for the Deaf,2425
+San Andreas-Gold Strike Road,2416
+MathScience Innovation Center,2413
+THOMASTON WPCF,2408
+Jackson-Clinton Road,2399
+Colusa-Sunrise Blvd,2390
+"BUFFALO, LW MINING",2389
+COM ED TRAINING CENTER,2388
+LEROY WOOD SCHOOL,2369
+Sequoia NP-Lookout Point Ranger Station,2369
+Baltimore County Near Road,2352
+Paso Robles,2337
+"Valley Site, Labadie",2332
+"EMMETSBURG, IOWA LAKES COMMUNITY COLL.",2310
+Erda,2306
+Houston Bayland Park,2299
+10 METER TOWER EAST OF HAYDEN ON RATHDRUM PRARIE.,2296
+Yuba City,2283
+Santa Maria,2269
+CEDAR BLUFF,2267
+QUEEN VALLEY,2265
+"Yellowstone National Park, Water Tank",2257
+Davis-UCD Campus,2216
+Santa Barbara,2211
+TRNP-NU,2206
+GLEN BURNIE,2202
+Eliza Downwind,2201
+Salmon - Charles St.,2192
+TOWER ON HILL NEAR CHIP N SAW MILL,2184
+WICHITA HD,2177
+Chico-East Avenue,2157
+Ontario-Route 60 Near Road,2154
+Oildale,2154
+Placerville-Gold Nugget Way,2147
+Ogden,2134
+BISMARCK RESIDENTIAL,2131
+PAUL SMITHS,2130
+ACADIA NATIONAL PARK RANGER STATION;SITE MOVED JANUARY 1998,2129
+Edison,2119
+Carlsbad Caverns NP - Maintenance Area,2111
+NE OF AVE. DE LA INDUSTRIA & TOMAS FERNANDEZ INTERSECTION,2111
+Boulder Reservoir,2106
+"CLINTON, RAINBOW PARK",2103
+Tualatin Bradbury Court (TBC) - Near Road Site,2102
+"DAVENPORT, BH FOUNDRY",2090
+Sonora-Barretta Street,2085
+Ontario Near Road (Etiwanda),2074
+Modesto-14th Street,2047
+PCI MET1,2041
+PFIZER LAB SITE,2023
+El Cajon - Lexington Elementary School,2019
+OCI #4,2009
+San Luis Obispo,1991
+Arvin-Di Giorgio,1946
+Chaco Culture NHP - Radio Repeater,1922
+GERONIMO,1916
+Farson Met,1905
+Visalia-Church,1898
+TULSA NORTH (SKIATOOK),1872
+Echo Summit,1865
+WISHRAM - HWY 14,1863
+Northwest,1863
+"Prairie State Generating Company, LLC",1848
+APPLETON AVE,1837
+ATHENS OU,1826
+SOUTH ROAD BRENTWOOD,1807
+Fort Lee Near Road,1801
+RACINE,1797
+La Habra,1796
+Joe Neal,1785
+Greenwich Point Park,1734
+JD Smith,1734
+Dinosaur NM - West Entrance Housing,1728
+Minidoka National Historic Site,1727
+HERITAGE PARK,1706
+PONCA TRIBE,1697
+Mecca (Saul Martinez),1695
+Long Beach-Route 710 Near Road,1679
+SITE LOCATED IN BORDERLAND STATE PARK.,1672
+"LOCATED IN PINE RIVER VALLEY, THE MOST DENSELY POPULATED AREA.",1670
+Blackstone,1656
+ROSE PARK,1652
+"IOWA CITY, HOOVER SCH.",1650
+TATA MET,1644
+NCORE,1642
+LIVONIA-NR,1638
+SOUTH OF BADLANDS NP HEADQUARTERS,1629
+FHR 420,1621
+Anadarko Spotted Horse Met Station,1616
+Redlands,1606
+"WAUKESHA, CARROLL COLLEGE",1574
+Cleveland Near Road,1569
+Joshua Tree NP - Cottonwood Visitor Center,1555
+La Grande Hall and N St. (LHN),1554
+Corpus Christi Palm,1548
+TONTO NM,1547
+TVA Fly ash spill site,1546
+"Walden - Colorado, Chandler Ranch",1541
+Tooele,1540
+ROCKY FLATS-N,1508
+MARBLE CITY SHELTER,1507
+Jarbidge Wilderness,1492
+"MASON CITY, HOLCIM",1490
+SITE IS LOCATED ON THE EASTERN RIM OF THE ANIMAS RIVER VALLEY.,1484
+SHAVER LAKE SUMMMER OZONE SITE,1461
+West Los Angeles,1461
+Trona - Athol/Telescope #2,1460
+Hesperia-Olive Street,1455
+LOGAN #4,1454
+Haleakala National Park,1453
+Barstow,1452
+MSU,1441
+ON HILL NEAR PARK OFFICE AND MAINTENANCE SHOP,1435
+Victorville-Park Avenue,1422
+"TRANSPORT STUDY - MOUNTAIN TERRAIN, VERY MINIMAL TRAFFIC.",1418
+Dave Johnston Air Quality Station,1417
+Brigantine,1417
+LAKE DUBAY,1399
+Johnson County,1397
+22ND & ALVERNON,1394
+El Paso Sun Metro,1392
+????,1390
+Sequoia NP-Ash Mountain,1381
+Frying Pan Mountain,1368
+Phelan-Beekley Road & Phelan Road,1366
+"Paonia, Colorado",1366
+Bayonne,1366
+Camden Spruce Street,1365
+"Great Smoky Mountains National Park, Clingman's Dome",1359
+VALLEY CENTRAL HIGH SCHOOL,1355
+Flemington,1354
+Lake Ilo,1348
+"Petrified Forest National Park, South Entrance",1346
+"Great Smoky Mountains National Park, Cade's Cove",1340
+Mojave,1339
+Colfax,1333
+LIBERTY ST PARKING LOT,1318
+Bliss SP,1315
+MILWAUKEE UWM-NORTH,1313
+HAINS POINT PM-2.5 AND IMPROVE SITE ON ROOF OF PARK POLICE BLDG.,1307
+Leavenworth,1295
+SITE MOVED FROM LOST HORSE TO BLACK ROCK CANYON S. OF YUCCA VALLEY,1285
+Tallgrass Energy Partners - Met Tower,1280
+5 MI E OF HWY 395 AT COSO JUNCTION,1272
+Lancaster-Division Street,1270
+USFS COMPOUND ON EAST EDGE OF TOWN,1245
+SIPSEY (closed 11-01-2007),1234
+Sutter Buttes (seasonal),1222
+DEVILS LAKE PARK,1222
+Cumberland Gap NHP - Hensley Settlement,1220
+Ajax Mountain,1216
+Hollister,1205
+Algonquin Parkway,1199
+Yosemite National Park - Merced River Site,1188
+Savannah-E. President,1185
+Elizabeth Lab,1182
+"SAC AND FOX NATION, STROUD",1173
+Cool,1165
+UNDEVELOPED HILL CREST NEAR AMP-OHIO'S ASH LANDFILL,1164
+Reseda,1157
+Pasadena,1152
+HAWAII VOLCANOES NP - THURSTON,1145
+Tuscan Butte (seasonal),1137
+ Sherwood  -  Lasich and Roy Rogers (SLR),1131
+Colorado NM - Maintenance Yard,1129
+LAY PEAK,1127
+Mira Loma (Bellegrave),1103
+CAPE ROMAIN,1098
+Spiritwood Energy Station,1096
+Car-Barn Montgomery I -76,1086
+MET. SITE ONLY,1073
+Fernberg Road,1061
+"Fairplay, Colorado",1057
+Anoka County Airport,1049
+HARRIMAN HIGH SCHOOL,1045
+Elk Springs,1028
+Wyoming Range,1022
+Belle Ayr BA-4,1020
+Yosemite National Park - School Yard,1013
+Paradox,981
+Black Thunder Mine JR5,971
+STOCKER STADIUM,967
+Jonah,966
+SOUTH FARM SITE FOR NITROGEN DEPOSITION,959
+Converse County - Mobile #2,933
+Olancha-Well 404,915
+W1-SAND DRAW-01,911
+Decatur Thompson,908
+Harrisville,900
+LAT/LONG POINT IS OF SAMPLING INLET.................................,888
+Reno4,851
+"POKER FLAT RESEARCH RANGE, 30 MILES NE OF FAIRBANKS OFF STEESE HWY",833
+Utah Technical Center,823
+I-25,814
+East Chicago-Marina,812
+Sinclair-Mobile #2,799
+Union,794
+Devil's Tower NM - Joyner Ridge Trail,773
+Hayes School,772
+Platteville Atmospheric Observatory,767
+Jefferson County Airport,752
+"CAMP DODGE, GREENS GRANT",734
+El Cajon - Floyd Smith Dr.,733
+MICMAC HEALTH DEPARTMENT,731
+Flower Mound Shiloh,698
+Daniela Banu NCORE,694
+Lake Park,694
+MT ZION - HWY 14,694
+OZONE MONITOR ON SW SIDE OF TOWER/MET EQUIPMENT 10FT ABOVE TOWER,675
+Copper View,667
+BONNEVILLE DAM - HWY 14,666
+Sacramento-Earhart Dr.,665
+"375 WILSON, ALPENA CO.",663
+Evergreen,661
+Spanish Fork,658
+SOUTH EAST HEIGHTS,638
+Laramie County Mobile,628
+VANCOUVER - BLAIRMONT DR,628
+Cabazon Resource Recovery Park Station,620
+Riverside (Magnolia),617
+Onestop Fuel,607
+GILSON ROAD,607
+Lebec-Peace Valley Road,589
+San Rafael Wilderness,588
+Sierra Ancha,586
+"SUNSET PARK LOCATION, BETWEEN CITY CENTER AND POTLACH CORP.,",580
+Mount Baldy,580
+IVA,578
+"MULTORPOR-Ski Bowl, Mt. Hood Wilderness",577
+Mazatzal Wilderness - Ike's Backbone,572
+Lava Beds National Monument,572
+James Town Mobile,553
+EAGLE MOUNTAIN,547
+Fort Laramie National Historic Site,541
+Yosemite National Park - Glacier Point,540
+University Medical Center,537
+Kaiser Wilderness,529
+Mono Shore,524
+Trinity,512
+Bridger Coal JB-2 Meteorological Station,511
+Water Tower,500
+Riverton Mobile,500
+Tata Gaseous,492
+UTM COORDINATES = BASE OF WIND TOWER,492
+Aqua Tibia Wilderness,491
+Newcastle Mobile,475
+"OLD DOVER HIGHWAY CADIZ,KY",465
+Oakland-International Blvd.,459
+"ST JOHNS ROAD QUAKER CITY, OH",456
+NARSTO SITE ARENDTSVILLE,456
+Connecticut Hill,456
+WAVERLY AIRPORT SITE,453
+HILLSIDE,451
+Mojave - CA 58 Business,436
+Gillette Mobile,434
+Jackson Mobile,432
+Hoover Wilderness,430
+Pavillion,430
+TOP OF APARTMENT BUILDING - 36 METERS FROM ROUTE 2 (MAIN STREET),428
+Casper Mobile,421
+Cody Mobile,417
+Lovell Mobile,412
+"MET SITE FOR A BACKGROUND MERCURY SITE, TOWER LOCATED IN OPEN FIELD",409
+MILWAUKEE HAVENWOODS,407
+Rock Springs - Mobile #1,395
+Guadalupe Mountains National Park - Maintenance Area,394
+Lone Pine,394
+WITHIN ST. MARKS WILDLIFE REFUGE AT THE WORK STATION,393
+"Vogelaar Park, Glenwood Springs",393
+Signal Hill (LBSH),393
+Pulp Mill Road,389
+Saguaro National Park - West,386
+BEAVER ISLAND STATE PARK,385
+Sheridan Mobile,384
+"Sequoia and Kings Canyon National Parks, Ash Mountain",383
+Isla Blanca Park,382
+North Hollywood (NOHO),381
+Lebec,375
+Great Plains State Park,373
+Seedskadee,372
+Cheyenne Mobile,372
+Red Leaf Met,365
+Torrington Mobile,365
+SEATTLE - DUWAMISH,365
+Laramie Mobile,365
+Lucerne Valley-Middle School,364
+Graymont Indian creek 50-m Met Station,362
+City of Rocks NR - Juniper Campground,362
+TRIWEST HIGH SCHOOL --- QUALITECH_DOWNWIND SITE,359
+"Wind Cave National Park, Visitor Center",352
+"Vernon St, Pawtucket",343
+LOCATED ON ROOF OF ZOOFARI BUILDING ON MILWAUKEE CNTY ZOO GROUNDS,343
+NW OF BORDER HWY IN ASCARATE PARK,342
+Beaver Creek Air Quality Station,335
+Rutgers University,329
+JOHNSON AND WALES,323
+109 BUCKLIN STREET,312
+Glacier NP - Saint Mary's Ranger District,304
+Padre Island NS - Malaquite Visitor Center,282
+Vancouver-River Rd,262
+"1 HERRING CREEK RD, AQUINNAH (WAMPANOAG TRIBAL SITE)",254
+ORGAN PIPE NM,254
+Boundary Waters,243
+Blue Mounds,243
+Gasquet,243
+Great River Bluffs,243
+Guadalupe Mountain NP - Federal Aviation Administration,243
+Laramie I-80 Mobile,219
+SF-USD,197
+MUSCATINE HS - East Campus School Roof,191
+Eagle Pass,189
+Lyndon B. Johnson NMP - Hay Barn,186
+North Pole Fire Station #3,181
+East Orange,181
+Chippewa,181
+Abraham Lincoln Birthplace NHP - Visitor's Center,171
+Kemmerer Mobile,171
+Kings Mountain NMP - RAWS Station,169
+Alsup Elementry School - Commerce City,169
+COM ED MAINTENANCE BLDG,162
+LOCATED IN PENTHOUSE ATOP CUSTOMS BUILDING,142
+San Antonio Northwest,133
+CAP SITE,127
+SAN BERNADINO AIRPORT (NORTON AFB),122
+JCG: Jonesport Coast Guard,120
+Sequoia NP-Lower Kaweah,116
+EL MONTE AIRPORT - PROFILER FOR SCOS97,110
+Stockton - University Park,106
+Yosemite National Park - Mobile 1,103
+AGRICULTURAL SITE APPROX 150 YDS FROM INTERSECTION ARB SITE #16-718,102
+Yosemite National Park - Mobile 2,95
+Bayview Ferry,92
+Rockwell,92
+Ted Walker Park,90
+Chickasaw Nation storage lot,90
+Inland Port,90
+Taft NCore PAMS,90
+APPLE VALLEY SPECIAL PURPOSE MET PROFILER SITE,86
+BARSTOW/DAGGETT SPECIAL PURPOSE MET PROFILIER SITE,86
+ROVER STUDY FROM SCOS97,77
+SITE @ MERCED COUNTY ADULT CORRECTIONAL FACILITY-NW CORNER OF JAIL,76
+DOUGLAS RED CROSS,71
+PSI/ Duke Energy  Gibson Network- Gibson Tower,61
+Cooley,59
+GT Craig NCore PAMS,59
+IS 52,51
+Blue Lake Rancheria,41
+DENVER MUNICIPAL ANIMAL SHELTER,37
+PLACERVILLE- CANAL STREET,30
+"Zion National Park, Dalton's Wash",11
+Peach Springs,7

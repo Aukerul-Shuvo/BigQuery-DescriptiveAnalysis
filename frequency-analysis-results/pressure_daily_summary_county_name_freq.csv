@@ -1,0 +1,281 @@
+county_name,count
+San Bernardino,54567
+Campbell,46747
+Wayne,44859
+Los Angeles,43981
+Kern,43349
+Sweetwater,40691
+Fresno,39856
+Essex,34899
+Clark,31027
+Riverside,30960
+Jefferson,30126
+Inyo,30006
+Erie,27051
+Suffolk,26710
+Sublette,26636
+El Paso,24916
+Kent,23737
+East Baton Rouge,22725
+Harris,22008
+Richmond,21719
+Uintah,19444
+Chautauqua,19124
+Lake,19102
+Orange,18494
+St. Louis City,18409
+Nez Perce,16863
+Scott,16832
+Madison,16494
+Tulare,16460
+Johnson,15520
+DeKalb,15411
+Floyd,15048
+Santa Barbara,14886
+Marion,14704
+Baltimore,14307
+Jackson,14157
+Hamilton,14007
+Lincoln,13705
+Genesee,13446
+Chittenden,13428
+Mercer,13390
+Milwaukee,13097
+Idaho,13066
+Madera,12958
+Middlesex,12910
+Sacramento,12770
+Hampden,12765
+Bronx,12491
+Linn,12414
+Weston,12324
+District of Columbia,12053
+Cook,11711
+Monroe,11576
+Hampshire,11489
+Waukesha,11433
+Converse,11282
+Ada,10875
+Kootenai,10642
+Warrick,10577
+Worcester,10534
+Kings,10488
+San Diego,10466
+Oakland,10320
+Lenawee,10273
+Montgomery,10267
+Sheridan,10193
+Salt Lake,10157
+Onondaga,10038
+Providence,10025
+Rosebud,10021
+Nassau,10013
+Cass,9813
+Mecklenburg,9575
+Edmonson,9563
+Ventura,9533
+Rockdale,9464
+Sevier,9388
+Prince George's,9383
+Allegan,9370
+Clinton,9354
+Franklin,9337
+Ulster,9271
+Herkimer,9072
+San Joaquin,9032
+Washington,9032
+Barnstable,8943
+Union,8634
+New Haven,8610
+Westchester,8603
+Uinta,8596
+Bernalillo,8545
+Albany,8502
+Cumberland,8495
+Ozaukee,8462
+Stanislaus,8438
+Skagit,8406
+Missaukee,8371
+Bristol,8333
+Harford,8156
+Duchesne,8054
+Josephine,7907
+Ingham,7812
+Chemung,7790
+Klamath,7761
+Washtenaw,7760
+Umatilla,7753
+Deschutes,7706
+Rio Blanco,7626
+Niagara,7591
+Tarrant,7579
+Multnomah,7572
+Vigo,7554
+Vermillion,7546
+Gibson,7522
+Putnam,7511
+Rensselaer,7496
+Fremont,7459
+Bonner,7409
+Buchanan,7397
+Posey,7369
+Litchfield,7328
+Schenectady,7293
+Schoolcraft,7200
+Natrona,7200
+Iberville,7193
+Shoshone,7153
+Paulding,7118
+Carbon,6927
+Harney,6908
+Burke,6699
+Saint Louis,6635
+Norfolk,6444
+Box Elder,6411
+McKenzie,6326
+Hawaii,6300
+Lemhi,6199
+Garrett,6190
+Hartford,6106
+Burleigh,6040
+Van Buren,5920
+Dunn,5880
+Racine,5876
+Palo Alto,5876
+Queens,5867
+Dutchess,5861
+Rockingham,5811
+Davis,5618
+Anne Arundel,5461
+Muscogee,5391
+Rutland,5330
+Douglas,5267
+Manistee,5095
+Pinellas,5068
+Scioto,5060
+Laramie,5018
+Warren,4844
+Carter,4841
+Placer,4818
+Colusa,4780
+Hillsborough,4780
+San Luis Obispo,4763
+Humboldt,4717
+Bennington,4706
+Butte,4696
+Bannock,4615
+King,4613
+Imperial,4605
+Camden,4565
+Twin Falls,4393
+Clallam,4387
+Knox,4379
+Big Horn,4358
+Carroll,4341
+Cecil,4321
+Teton,4296
+El Dorado,4295
+St. John the Baptist,4258
+Black Hawk,4096
+Muscatine,4075
+Sutter,4073
+Preble,4024
+Ionia,3995
+Greene,3966
+Oswego,3922
+Allegheny,3918
+Washoe,3904
+Crook,3828
+Oliver,3815
+Rockland,3796
+Dorchester,3678
+Dodge,3676
+Clay,3651
+Mono,3644
+Shelby,3471
+Cedar,3467
+Henrico,3456
+Forsyth,3424
+Sandoval,3408
+Benewah,3382
+York,3359
+Ashland,3301
+Latah,3178
+Garfield,3157
+St. Clair,3082
+Caroline,3064
+Howard,2915
+Fairbanks North Star ,2780
+Henry,2712
+Oneida,2616
+Williams,2521
+Sumner,2507
+Wyandotte,2505
+Chippewa,2462
+Will,2453
+Del Norte,2427
+Moffat,2376
+La Plata,2187
+Boundary,2160
+Sedgwick,2151
+Wakulla,2085
+Escambia,2045
+Ohio,1950
+Trego,1904
+Canyon,1883
+Perry,1853
+Mason,1835
+Tolland,1827
+Athens,1826
+Bergen,1801
+St. Joseph,1781
+Fairfield,1776
+Mineral,1718
+Allen,1646
+Cerro Gordo,1490
+Park,1474
+Coos,1394
+Bremer,1384
+Delta,1366
+Hudson,1366
+Berkshire,1345
+Hunterdon,1336
+Leavenworth,1294
+Chatham,1185
+Utah,1155
+Stutsman,1096
+Dallas,1027
+Saginaw,912
+Choctaw,788
+Baltimore (City),775
+Aroostook,731
+Elmore,731
+Maricopa,703
+Bayamon,702
+Yamhill,699
+Mesa,685
+Alpena,663
+Berrien,658
+Columbia,593
+Cache,590
+Adams,578
+Tooele,575
+Weber,573
+Clackamas,566
+Iron,563
+Pima,547
+Benson,499
+Guernsey,409
+Cuyahoga,395
+Hancock,388
+Caddo,387
+Manitowoc,385
+Goshen,365
+Santa Clara,365
+Pierce,364
+Broadwater,362
+Talbot,322
+Augusta,272
+Anoka,29
+Mohave,7
+Coconino,1

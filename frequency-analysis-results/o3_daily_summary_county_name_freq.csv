@@ -1,0 +1,780 @@
+county_name,count
+Jefferson,235233
+Maricopa,205209
+Harris,167567
+Los Angeles,165190
+Clark,163968
+Santa Barbara,162896
+San Bernardino,136584
+Riverside,117057
+Washington,111086
+Cook,108462
+San Diego,108407
+Madison,95536
+Orange,93772
+Pima,87756
+Kern,87562
+El Paso,82089
+Lake,80194
+San Luis Obispo,75543
+Sacramento,73827
+Ventura,71406
+Bernalillo,66121
+Fresno,65539
+Hamilton,63951
+Washoe,63865
+Montgomery,62735
+Hillsborough,62637
+Dona Ana,61944
+Essex,61868
+Mercer,55963
+Alameda,52555
+Polk,52062
+Santa Clara,51382
+Marion,51125
+Knox,47347
+Tarrant,47126
+Hancock,47060
+Contra Costa,45269
+Douglas,45146
+Imperial,44253
+Adams,44033
+Suffolk,43315
+Saint Louis,43015
+East Baton Rouge,41984
+Cumberland,41482
+York,41360
+Tulsa,41020
+Tulare,40407
+BAJA CALIFORNIA NORTE,39708
+Monterey,38502
+Franklin,38492
+Larimer,38445
+Sublette,38340
+San Juan,38087
+Placer,36862
+Broward,36859
+Kent,36547
+Richland,36323
+Dallas,35829
+Allegheny,35721
+Pulaski,35685
+Philadelphia,35599
+DeKalb,34958
+Pinellas,34875
+Calcasieu,34258
+Greene,34243
+Shasta,34158
+Pinal,33717
+Jackson,33453
+Bexar,33291
+Middlesex,33189
+Lee,33158
+New Castle,33133
+District of Columbia,32647
+Shelby,32371
+Miami-Dade,32282
+Fairfax,31725
+Solano,31451
+Clay,31317
+Santa Cruz,31253
+Lawrence,30087
+Wayne,29701
+Sarasota,29592
+Salt Lake,29303
+Oklahoma,29248
+Rockingham,29182
+Butte,29171
+Iberville,28979
+Linn,28875
+Manatee,28733
+Milwaukee,28135
+Monroe,27970
+Scott,27850
+Escambia,27381
+Prince George's,27279
+Fayette,27026
+Warren,26850
+Duval,26301
+El Dorado,26154
+Clinton,26062
+Forsyth,25798
+La Plata,25715
+Butler,25506
+Cuyahoga,25194
+San Joaquin,25063
+Fairfield,24928
+Beaver,24604
+Uintah,24549
+Harrison,24541
+Columbia,24387
+Stanislaus,24263
+Sedgwick,23757
+Perry,23756
+Travis,23656
+Lucas,23645
+Albany,23601
+Stark,23425
+Camden,23216
+San Benito,23191
+Nueces,23062
+Brevard,22856
+Wake,22850
+Sonoma,22815
+Macon,22747
+Mariposa,22699
+Yolo,22544
+King,22456
+Cass,22091
+Garfield,21954
+Mecklenburg,21818
+Peoria,21692
+Morgan,21201
+Livingston,21142
+Sutter,21064
+Allen,21055
+Palm Beach,20925
+Sumner,20913
+Haywood,20769
+Denver,20752
+Johnson,20641
+Campbell,20393
+Volusia,20339
+Erie,20229
+Sandoval,20215
+Lancaster,20196
+Winnebago,20116
+Pierce,20081
+St. Joseph,19776
+Denton,19729
+Bronx,19647
+Nevada,19547
+Centre,19386
+Delaware,19170
+St. Louis City,19138
+Champaign,19017
+Blount,18970
+Union,18913
+Baltimore,18802
+Davidson,18739
+Pasco,18717
+Brazoria,18656
+Berkeley,18587
+Grafton,18554
+Pike,18242
+Warrick,18120
+Washtenaw,18097
+CHIHUAHUA STATE,18075
+Sullivan,18074
+Northampton,18047
+Lackawanna,17872
+Coconino,17638
+Anoka,17481
+Kings,17401
+Aroostook,17218
+Arapahoe,16992
+Sevier,16852
+Weld,16811
+Dauphin,16794
+Boone,16762
+Avery,16562
+Hampshire,16560
+Penobscot,16492
+Sumter,16290
+Berks,16289
+Chautauqua,16227
+Madera,16105
+Montezuma,16047
+Bell,16021
+Saint Charles,15987
+Harford,15942
+Utah,15941
+Richmond,15872
+Mobile,15798
+Teton,15748
+Anderson,15575
+Tehama,15548
+Inyo,15440
+Mendocino,15289
+Sweetwater,15181
+Sussex,15065
+Caddo,14949
+Cherokee,14937
+Leon,14886
+Ellis,14870
+New Haven,14774
+Hidalgo,14716
+Luzerne,14601
+Honolulu,14557
+Porter,14449
+Tuolumne,14346
+Bristol,14301
+Lincoln,14293
+Queens,14190
+Hampden,14103
+Vanderburgh,14081
+Galveston,14065
+Boulder,14046
+Charles,13999
+Will,13984
+Worcester,13811
+Suffolk City,13759
+Trigg,13753
+Carroll,13404
+Chesterfield,13324
+Trumbull,13164
+Wood,12983
+Dorchester,12841
+Marin,12759
+Weber,12720
+Rowan,12690
+Macomb,12555
+Somerset,12537
+Kenosha,12517
+Gunnison,12509
+Collin,12484
+Genesee,12473
+Coos,12407
+Ottawa,12360
+Muscogee,12191
+San Francisco,12101
+Westmoreland,11937
+Cameron,11862
+Westchester,11856
+Frederick,11819
+Bossier,11798
+Dutchess,11775
+St. John the Baptist,11747
+San Mateo,11737
+Onondaga,11725
+St. James,11724
+Atlantic,11717
+Crittenden,11716
+Lafayette,11714
+Flathead,11696
+Pointe Coupee,11694
+Hinds,11680
+Edmonson,11669
+West Baton Rouge,11659
+LaPorte,11647
+Ozaukee,11644
+Eddy,11628
+Tucker,11611
+Fremont,11594
+Morris,11553
+Lafourche,11539
+Denali ,11531
+Hunterdon,11527
+New York,11523
+Seminole,11515
+Cochise,11512
+Wyandotte,11503
+Claiborne,11494
+Vigo,11451
+Cleveland,11450
+Napa,11393
+Gregg,11388
+Giles,11358
+Liberty,11352
+Chester,11330
+Wabash,11330
+Randolph,11267
+Tuscola,11255
+Anne Arundel,11237
+Taylor,11235
+Chatham,11231
+St. Bernard,11219
+Kane,11202
+Gilmer,11201
+Elk,11195
+Hudson,11194
+Glenn,11169
+Saint Clair,11162
+Sangamon,11139
+Tompkins,11130
+Yalobusha,11125
+Clallam,11066
+Skagit,11061
+Rock Island,11060
+Brewster,11029
+Prince Edward,11015
+Colusa,11011
+McHenry,11010
+Saratoga,10994
+Victoria,10943
+Ouachita,10872
+Merced,10817
+Edgefield,10802
+Amador,10801
+Newton,10743
+Oliver,10680
+McClain,10653
+Ascension,10640
+Putnam,10597
+Lycoming,10593
+Oneida,10584
+DuPage,10572
+Charleston,10528
+Macoupin,10491
+McLean,10428
+White Pine,10321
+Comanche,10314
+Gloucester,10308
+Osceola,10239
+Dawson,10202
+Pickens,10143
+Oconee,10101
+Calaveras,10100
+Siskiyou,10005
+Smith,9969
+Mesa,9841
+Van Buren,9830
+Alachua,9807
+Dodge,9786
+Martin,9744
+Windham,9740
+Herkimer,9730
+Chittenden,9729
+Noble,9656
+Niagara,9600
+Jo Daviess,9585
+Bennington,9563
+Lane,9556
+Spokane,9514
+Baker,9501
+Valencia,9428
+Carteret,9411
+Bergen,9278
+Burke,9261
+Holmes,9261
+Bucks,9054
+Aiken,9048
+Sheboygan,8992
+Providence,8968
+Henderson,8943
+McKenzie,8931
+Lehigh,8884
+Cambria,8878
+Monmouth,8868
+Spartanburg,8854
+St. Lucie,8842
+Darlington,8841
+Ada,8836
+Manitowoc,8798
+Carbon,8764
+Elmore,8762
+Box Elder,8747
+Blair,8738
+Preble,8691
+Carter,8680
+Litchfield,8599
+Humboldt,8563
+St. Charles,8556
+Brown,8440
+Cheshire,8390
+Duchesne,8374
+Henrico,8359
+Barnstable,8357
+Colleton,8337
+Webb,8310
+Chemung,8295
+Kalamazoo,8234
+Grant,8229
+Kanawha,8204
+Orleans,8152
+Hardin,8131
+Summit,8124
+Ohio,8121
+Swain,8084
+Billings,8082
+Ocean,8075
+Dunn,8044
+Rio Blanco,8035
+Rock,8031
+Rockdale,8011
+Kaufman,8002
+DeSoto,7936
+Williamson,7932
+Ingham,7928
+Hood,7904
+Ulster,7877
+Lauderdale,7870
+Bay,7853
+Licking,7838
+Fulton,7836
+Parker,7835
+Trego,7827
+St. Clair,7802
+Clackamas,7778
+Schenectady,7763
+Rockwall,7742
+Johnston,7739
+Santa Rosa,7711
+Cache,7677
+Hartford,7645
+Wexford,7637
+Palo Alto,7606
+Davis,7539
+McCracken,7528
+Roanoke,7509
+Cabell,7508
+Wilson,7491
+Oldham,7436
+Greenup,7434
+Sainte Genevieve,7429
+Bullitt,7426
+Boyd,7416
+Daviess,7407
+Arlington,7389
+Greenbrier,7374
+Minnehaha,7366
+Highlands,7358
+Wakulla,7344
+Yuma,7282
+Lyon,7281
+Sauk,7264
+Medina,7255
+Canadian,7251
+Collier,7212
+Jersey,7196
+Simpson,7190
+Christian,7176
+Bremer,7168
+Jessamine,7157
+Indian River,7131
+Effingham,7117
+Prince William,7088
+Pittsburg,7084
+Vilas,7060
+Navajo,7057
+Crawford,7057
+Mahoning,7039
+Buncombe,7039
+Guilford,7036
+Wythe,7025
+Clermont,7022
+Granville,7006
+Fauquier,6991
+Portage,6986
+Ashtabula,6973
+Adair,6972
+Dewey,6942
+Natrona,6917
+Bibb,6911
+Lorain,6900
+Hunt,6898
+Carson City,6886
+Hampton City,6877
+Dane,6841
+Hanover,6802
+Stafford,6789
+Pitt,6773
+Creek,6756
+Kennebec,6754
+Leavenworth,6747
+Miami,6713
+Clearfield,6698
+Armstrong,6679
+Paulding,6651
+Manistee,6650
+Merrimack,6619
+Catano,6619
+Abbeville,6616
+Greenville,6609
+Cedar,6575
+Cecil,6538
+Walworth,6477
+Garrett,6476
+Floyd,6466
+Muskegon,6463
+Missaukee,6454
+Waukesha,6445
+Glynn,6444
+Forest,6418
+Gwinnett,6412
+Durham,6386
+Henry,6357
+Baltimore (City),6353
+Alexander,6343
+New London,6327
+Oakland,6308
+Elkhart,6299
+New Hanover,6264
+Ashland,6263
+Outagamie,6255
+Caroline,6252
+Kewaunee,6247
+Fond du Lac,6242
+Lea,6232
+Tolland,6200
+Tioga,6192
+Mason,6186
+Edgecombe,6168
+Caldwell,6168
+Kay,6168
+Oxford,6152
+Caswell,6147
+Yavapai,6142
+Door,6126
+Marathon,6122
+Multnomah,6067
+Custer,6062
+Yancey,5988
+Oswego,5982
+Person,5953
+Burleigh,5920
+Racine,5905
+Allegan,5896
+Posey,5890
+Gila,5827
+Benzie,5825
+Beauregard,5818
+Berrien,5808
+Huron,5748
+Steuben,5713
+Passaic,5691
+St. Mary,5686
+Barnwell,5658
+Norfolk,5646
+Loudoun,5555
+Bolivar,5523
+Geauga,5510
+Shawnee,5477
+Lenawee,5459
+Berkshire,5440
+Cobb,5362
+Randall,5346
+Murray,5342
+Meade,5318
+Mayes,5303
+Lenoir,5282
+Rutherford,5280
+Santa Fe,5279
+Baldwin,5239
+Story,5229
+McLennan,5146
+St. Tammany,5141
+Indiana,5098
+Whatcom,5066
+Rockbridge,5054
+Tuscaloosa,5052
+Colbert,5043
+Uinta,4968
+Calvert,4953
+Laramie,4941
+Alexandria City,4937
+Davie,4911
+Park,4905
+Hendricks,4904
+Monongalia,4867
+Clarke,4848
+Brookings,4836
+Etowah,4836
+Okaloosa,4832
+Dukes,4828
+La Paz,4825
+Belknap,4798
+Jasper,4780
+Loudon,4733
+Schoolcraft,4714
+Kenton,4679
+Rockland,4667
+Converse,4657
+Mille Lacs,4641
+Navarro,4616
+Russell,4602
+St. Croix,4594
+Plymouth,4551
+Churchill,4519
+Big Horn,4518
+Coweta,4487
+Dakota,4451
+Callaway,4391
+Sequoyah,4391
+Chattooga,4389
+Huntington,4384
+Andrew,4355
+Vernon,4283
+Sagadahoc,4276
+Florence,4200
+Carlton,4186
+Powder River,4160
+Rosebud,4125
+Williamsburg,4121
+Graham,4111
+Clear Creek,4029
+Tooele,4005
+Lewis and Clark,3982
+Rensselaer,3978
+Riley,3978
+Olmsted,3965
+Stearns,3922
+Missoula,3903
+Platte,3856
+Wright,3839
+Goodhue,3780
+Plumas,3734
+Weston,3689
+Houston,3654
+Flagler,3649
+Crow Wing,3627
+Juncos,3623
+Androscoggin,3553
+Thurston,3551
+Page,3532
+Del Norte,3529
+Lebanon,3485
+Fergus,3441
+Meigs,3407
+Phillips,3405
+Becker,3385
+Sheridan,3316
+Mono,3280
+Fairbanks North Star ,3261
+La Crosse,3238
+Rio Arriba,3189
+Hawaii,3166
+Albemarle,3139
+Graves,3088
+Bradford,3074
+Luna,3034
+Love,3001
+Osage,2924
+Logan,2883
+Neosho,2853
+Umatilla,2724
+Bartholomew,2721
+Dickinson,2605
+Duplin,2566
+Williams,2476
+St. Martin,2433
+Hennepin,2431
+Eau Claire,2411
+Steele,2346
+Moffat,2336
+Koochiching,2279
+Klickitat,2276
+Pitkin,2255
+Horry,2153
+Taney,2143
+Rutland,2096
+Cotton,2086
+St. Johns,1950
+St John,1919
+New Brunswick,1910
+Idaho,1890
+Chippewa,1862
+Hays,1822
+MOBILE MONITORS,1807
+Ward,1791
+Archuleta,1774
+Matanuska-Susitna ,1742
+Delta,1695
+Piscataquis,1687
+Iron,1661
+Los Alamos,1660
+San Miguel,1576
+Strafford,1548
+Marshall,1512
+Howard,1483
+Latimer,1470
+Maui,1436
+Augusta,1426
+SONORA,1418
+Fannin,1404
+Chaffee,1399
+Hamblen,1374
+Sharkey,1310
+Maury,1291
+Athens,1288
+Geneva,1254
+Lewis,1251
+Grand,1243
+Pennington,1201
+Choctaw,1187
+Kootenai,1184
+Bayamon,1177
+Culberson,1123
+Gibson,1091
+Gilpin,1080
+Deschutes,1079
+Bryan,1075
+Snohomish,1067
+Coffee,1066
+Leelanau,1065
+Okmulgee,1045
+Cowlitz,1035
+Anchorage ,998
+Benton,990
+Montrose,956
+Dickson,942
+Lamar,941
+Canyon,892
+McCurtain,888
+Mayagnez,880
+Humphreys,847
+Amherst,840
+Daggett,837
+Sherman,834
+Yellowstone,834
+Green,819
+Burlington,808
+Apache,784
+Nowata,779
+Fairfax City,738
+Talladega,732
+Crook,725
+Ford,718
+Bradley,694
+Tyler,682
+Codington,681
+Toa Baja,636
+Alamosa,632
+Obion,607
+Pawnee,569
+Elko,567
+Roane,508
+Scotts Bluff,471
+Dyer,459
+Muskogee,453
+Beaufort,447
+Bannock,438
+Teller,428
+Tuscarawas,425
+Wasco,424
+Tippecanoe,380
+Allegany,368
+Limestone,367
+Alcorn,367
+Goshen,365
+Muhlenberg,365
+Cassia,361
+Panola,351
+Waller,341
+Kosciusko,339
+Sioux,334
+Fort Bend,324
+Kiowa,303
+Glacier,294
+Webster,282
+Autauga,276
+McIntosh,274
+Kleberg,271
+Walker,246
+McMinn,245
+Orangeburg,237
+Pottawatomie,230
+Newport News City,199
+Gillespie,186
+Pueblo,182
+Mississippi,182
+Grand Traverse,175
+Larue,170
+Houghton,158
+Marquette,158
+Roscommon,155
+Mecosta,134
+Oceana,121
+Montcalm,98
+Pontotoc,90
+Ontario,86

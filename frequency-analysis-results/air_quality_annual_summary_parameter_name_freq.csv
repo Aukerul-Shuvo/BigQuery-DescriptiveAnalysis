@@ -1,0 +1,1153 @@
+parameter_name,count
+PM2.5 - Local Conditions,386887
+Ozone,293538
+Sulfur dioxide,157670
+PM10 Total 0-10um STP,89554
+Nitrogen dioxide (NO2),52087
+Carbon monoxide,51002
+Average Ambient Temperature,48128
+Average Ambient Pressure,48045
+Suspended particulate (TSP),44268
+Acceptable PM2.5 AQI & Speciation Mass,44141
+Outdoor Temperature,40084
+Wind Speed - Scalar,35435
+Sample Min Baro Pressure,34681
+Ambient Min Temperature,34651
+Ambient Max Temperature,34645
+Sample Max Baro Pressure,34634
+Sample Volume,30807
+Wind Direction - Resultant,30694
+Wind Speed - Resultant,30320
+Sample Flow Rate- CV,29464
+PM10 - LC,29234
+Elapsed Sample Time,29138
+Wind Direction - Scalar,24744
+Nitric oxide (NO),23507
+Std Dev Hz Wind Direction,23094
+Oxides of nitrogen (NOx),19790
+Relative Humidity ,19289
+Lead (TSP) STP,19018
+Benzene,18804
+Toluene,18386
+Ethylbenzene,17951
+o-Xylene,17517
+PM2.5 Raw Data,17398
+m/p Xylene,16709
+Styrene,16450
+Sulfate PM2.5 LC,15686
+Nickel PM2.5 LC,15625
+Lead PM2.5 LC,15625
+Silicon PM2.5 LC,15612
+Manganese PM2.5 LC,15610
+Selenium PM2.5 LC,15610
+Chromium PM2.5 LC,15585
+Potassium PM2.5 LC,15579
+Arsenic PM2.5 LC,15570
+Vanadium PM2.5 LC,15484
+Zinc PM2.5 LC,15484
+Iron PM2.5 LC,15484
+Copper PM2.5 LC,15480
+Sulfur PM2.5 LC,15469
+Chlorine PM2.5 LC,15469
+Phosphorus PM2.5 LC,15469
+Strontium PM2.5 LC,15461
+Rubidium PM2.5 LC,15461
+Titanium PM2.5 LC,15449
+Aluminum PM2.5 LC,15444
+Calcium PM2.5 LC,15429
+Bromine PM2.5 LC,15319
+Total Nitrate PM2.5 LC,15139
+Sodium PM2.5 LC,15093
+Zirconium PM2.5 LC,15086
+Magnesium PM2.5 LC,14985
+"1,2,4-Trimethylbenzene",14778
+"1,3,5-Trimethylbenzene",14667
+"1,3-Butadiene",13936
+Tetrachloroethylene,13213
+Dichloromethane,13200
+Chloroform,13109
+Carbon tetrachloride,13092
+Trichloroethylene,12901
+Methyl chloroform,12646
+Barometric pressure,12588
+Solar radiation,12513
+Propylene,11823
+Vinyl chloride,11716
+Ethylene dichloride,11675
+n-Hexane,10628
+Chlorobenzene,10476
+Ethylene dibromide,10438
+"trans-1,3-Dichloropropene",10394
+"1,2-Dichloropropane",10379
+Cyclohexane,10358
+n-Octane,10328
+Bromomethane,10243
+"cis-1,3-Dichloropropene",10171
+Trichlorofluoromethane,10102
+Chloromethane,9878
+n-Heptane,9846
+"1,1,2,2-Tetrachloroethane",9834
+"1,1,2-Trichloroethane",9740
+"1,1-Dichloroethane",9722
+Acetone,9449
+Acetylene,9398
+EC2 PM2.5 LC,9358
+EC3 PM2.5 LC,9358
+Acetaldehyde,9345
+OC2 PM2.5 LC,9314
+OC3 PM2.5 LC,9314
+OC1 PM2.5 LC,9309
+"1,4-Dichlorobenzene",9304
+Formaldehyde,9256
+"1,1-Dichloroethylene",9249
+Methyl ethyl ketone,9247
+EC PM2.5 LC TOR,9099
+EC1 PM2.5 LC,9098
+OC4 PM2.5 LC,9054
+OP PM2.5 LC TOR,9050
+OC PM2.5 LC TOR,8990
+Chloride PM2.5 LC,8712
+p-Ethyltoluene,8693
+Dichlorodifluoromethane,8650
+Soil PM2.5 LC,8648
+"1,2-Dichlorobenzene",8467
+Ammonium Ion PM2.5 LC,8381
+Antimony PM2.5 LC,8374
+Cobalt PM2.5 LC,8342
+n-Pentane,8302
+Tin PM2.5 LC,8233
+Barium PM2.5 LC,8201
+Sodium Ion Pm2.5 LC,8172
+Rain/melt precipitation,8157
+Potassium Ion PM2.5 LC,8145
+PM10-2.5 - Local Conditions,8112
+Cadmium PM2.5 LC,8068
+"2,2,4-Trimethylpentane",8026
+Cadmium (TSP) STP,8011
+Isopropylbenzene,7993
+"1,3-Dichlorobenzene",7986
+n-Butane,7976
+Cesium PM2.5 LC,7946
+Methyl tert-butyl ether,7888
+Indium PM2.5 LC,7816
+Silver PM2.5 LC,7816
+Cerium PM2.5 LC,7796
+Isoprene,7784
+Chromium (TSP) STP,7780
+n-Nonane,7727
+Manganese (TSP) STP,7712
+n-Decane,7659
+Chloroethane,7615
+n-Propylbenzene,7579
+Cyclopentane,7559
+Total NMOC (non-methane organic compound),7533
+Nickel (TSP) STP,7487
+Arsenic (TSP) STP,7430
+Propane,7411
+Isobutane,7410
+cis-2-Butene,7389
+trans-2-Butene,7382
+Methylcyclohexane,7367
+"1,2,3-Trimethylbenzene",7346
+Isopentane,7343
+1-Pentene,7297
+3-Methylheptane,7295
+"2,3,4-Trimethylpentane",7295
+"2,2-Dimethylbutane",7282
+"2,3-Dimethylpentane",7274
+2-Methylheptane,7267
+cis-2-Pentene,7262
+"2,4-Dimethylpentane",7260
+Methylcyclopentane,7258
+3-Methylhexane,7255
+2-Methylhexane,7248
+n-Undecane,7223
+Ammonium Sulfate PM2.5 LC,7220
+Ethylene,7203
+Nitrite PM2.5 LC,7179
+trans-2-Pentene,7178
+Organic Carbon Mass PM2.5 LC,7169
+Ethane,7127
+Ammonium Nitrate PM2.5 LC,7094
+3-Methylpentane,6903
+2-Methylpentane,6858
+"2,3-Dimethylbutane",6856
+"1,2,4-Trichlorobenzene",6849
+o-Ethyltoluene,6776
+SO2 max 5-min avg,6718
+m-Ethyltoluene,6713
+p-Diethylbenzene,6587
+Peak Wind Gust,6569
+Freon 114,6536
+1-Butene,6533
+m-Diethylbenzene,6472
+Hexachlorobutadiene,6334
+"cis-1,2-Dichloroethene",6279
+Beryllium (TSP) STP,6253
+Zinc (TSP) STP,6191
+Propionaldehyde,5992
+Iron (TSP) STP,5929
+Bromodichloromethane,5622
+Acrolein - Unverified,5607
+Methyl isobutyl ketone,5560
+Bromoform,5486
+"trans-1,2-Dichloroethylene",5464
+Lead (TSP) LC,5408
+Acceptable PM10-2.5 - Local Conditions,5338
+Copper (TSP) STP,5178
+Benzaldehyde,5162
+OC3 CSN_Rev Unadjusted PM2.5 LC,4955
+OC2 CSN_Rev Unadjusted PM2.5 LC,4955
+OC1 CSN_Rev Unadjusted PM2.5 LC,4955
+Freon 113,4919
+EC3 CSN_Rev Unadjusted PM2.5 LC,4917
+EC2 CSN_Rev Unadjusted PM2.5 LC,4917
+Cobalt (TSP) STP,4907
+Dibromochloromethane,4797
+Sulfate (TSP) STP,4721
+OC4 CSN_Rev Unadjusted PM2.5 LC,4695
+OC CSN_Rev Unadjusted PM2.5 LC TOR,4691
+EC CSN_Rev Unadjusted PM2.5 LC TOR,4691
+EC1 CSN_Rev Unadjusted PM2.5 LC,4657
+Benzyl chloride,4642
+OP CSN_Rev Unadjusted PM2.5 LC TOT,4600
+OC CSN_Rev Unadjusted PM2.5 LC TOT,4600
+EC CSN_Rev Unadjusted PM2.5 LC TOT,4600
+OP CSN_Rev Unadjusted PM2.5 LC TOR,4596
+Molybdenum PM2.5 LC,4511
+Acrylonitrile,4442
+Light scatter,4300
+Carbon disulfide,4206
+Yttrium PM2.5 LC,4115
+Mercury PM2.5 LC,4079
+Valeraldehyde,3968
+Sum of PAMS target compounds,3951
+Hydrogen PM2.5 LC,3950
+Hexanaldehyde,3883
+Acetonitrile,3795
+Vanadium (TSP) STP,3721
+OC CSN Unadjusted PM2.5 LC TOT,3712
+EC CSN PM2.5 LC TOT,3700
+Gold PM2.5 LC,3698
+Lanthanum PM2.5 LC,3698
+Gallium PM2.5 LC,3698
+Scandium PM2.5 LC,3693
+Niobium PM2.5 LC,3678
+Tantalum PM2.5 LC,3678
+Europium PM2.5 LC,3678
+Iridium PM2.5 LC,3678
+Hafnium PM2.5 LC,3678
+Tungsten PM2.5 LC,3678
+Terbium PM2.5 LC,3678
+Samarium PM2.5 LC,3678
+Barium (TSP) STP,3612
+PM2.5 Total Atmospheric,3590
+Chloroprene,3531
+Sulfate PM10 STP,3517
+Butyraldehyde,3479
+Indoor Temperature,3476
+Molybdenum (TSP) STP,3315
+Temperature Difference,3227
+Nitrate (TSP) STP,3174
+Reconstructed Mass PM2.5 LC,3071
+Nitrate PM10 STP,3030
+Isovaleraldehyde,3027
+"1,1,2-Trichloro-1,2,2-trifluoroethane",2998
+3-Methyl-1-butene,2993
+2-Methyl-2-butene,2984
+trans-2-Hexene,2978
+cis-2-Hexene,2974
+"2,5-Dimethylbenzaldehyde",2935
+Reactive oxides of nitrogen (NOy),2926
+4-Methyl-1-pentene,2870
+Cyclopentene,2858
+Tolualdehydes,2854
+1-Hexene,2840
+Selenium (TSP) STP,2823
+OC3 CSN Unadjusted PM2.5 LC TOT,2809
+OC4 CSN Unadjusted PM2.5 LC TOT,2809
+OC1 CSN Unadjusted PM2.5 LC TOT,2804
+OC2 CSN Unadjusted PM2.5 LC TOT,2804
+OP CSN PM2.5 LC TOT,2795
+n-Dodecane,2784
+Trans-Crotonaldehyde,2652
+Methyl Butyl Ketone,2512
+Antimony (TSP) STP,2500
+Chloride PM10 STP,2495
+Benzo[a]pyrene (TSP) STP,2429
+Methyl methacrylate,2387
+Bromochloromethane,2344
+Dew Point,2257
+PM2.5 Volatile Channel,2172
+Lead PM10 STP,2156
+"Furan, tetrahydro-",2034
+Arsenic PM10 STP,2026
+Naphthalene (TSP) STP,2016
+Chromium VI (TSP) STP,2013
+2-Methyl-1-pentene,2006
+Crotonaldehyde,1998
+Ethyl acrylate,1994
+Relative Humidity Factor,1986
+Soil Extinction PM2.5 LC,1978
+Tert-amyl methyl ether,1977
+tert-Butyl ethyl ether,1977
+Ammonium Sulfate Extinction PM2.5 LC,1966
+Nickel PM10 STP,1964
+Deciview,1963
+Manganese PM10 STP,1950
+Ammonium Nitrate Extinction PM2.5 LC,1891
+Fluorene (TSP) STP,1881
+Phenanthrene (TSP) STP,1879
+Anthracene (TSP) STP,1879
+Elemental Carbon Extinction PM2.5 LC,1878
+Organic Carbon Extinction PM2.5 LC,1878
+Pyrene (TSP) STP,1877
+Benzo[a]anthracene (TSP) STP,1877
+Fluoranthene (TSP) STP,1876
+Cadmium PM10 STP,1875
+Ethyl acetate,1872
+"Indeno[1,2,3-cd]pyrene (TSP) STP",1872
+Benzo[k]fluoranthene (TSP) STP,1867
+Coarse Mass Extinction PM2.5 LC,1866
+Chrysene (TSP) STP,1863
+Benzo[b]fluoranthene (TSP) STP,1863
+"Dibenzo[a,h]anthracene (TSP) STP",1855
+Light Absorption Coeffiecient,1851
+Aerosol Extinction PM2.5 LC,1851
+Acenaphthylene (TSP) STP,1833
+Chromium PM10 STP,1826
+OP PM2.5 LC TOT,1806
+OC PM2.5 LC TOT,1768
+EC PM2.5 LC TOT,1768
+Acenaphthene (TSP) STP,1762
+2-Chloropentane,1760
+Sample Flow Rate CV - Nylon Filter,1756
+Sample Volume - Quartz Filter,1756
+Sample Volume - Teflon Filter,1756
+Sample Flow Rate CV - Quartz Filter,1756
+Sample Flow Rate CV - Teflon Filter,1756
+Sample Volume - Nylon Filter,1754
+Average Ambient Temperature for URG3000N,1750
+Average Ambient Pressure for URG3000N,1750
+"Benzo[g,h,i]perylene (TSP) STP",1731
+Vinyl acetate,1687
+Ethyl alcohol,1630
+Beryllium PM10 STP,1628
+alpha.-Pinene,1600
+Benzo[e]pyrene (TSP) STP,1577
+Butyraldehyde & isobutyraldehyde,1564
+1-Hexene & 2-Methyl-1-pentene,1501
+2-Propanol,1435
+Hydrogen sulfide,1404
+Aluminum (TSP) STP,1384
+Ammonium PM10 STP,1371
+Acrolein - Verified,1367
+Cobalt PM10 STP,1282
+Manganese (TSP) LC,1281
+Arsenic PM10 LC,1225
+Nickel PM10 LC,1221
+Manganese PM10 LC,1221
+Potassium PM10 STP,1216
+Total hydrocarbons,1206
+Lead PM10 LC,1190
+Black carbon PM2.5 STP,1178
+Antimony PM10 STP,1171
+Perylene (TSP) STP,1166
+Ultraviolet radiation,1161
+"Benzene, 1-ethenyl-4-methyl",1156
+Titanium (TSP) STP,1154
+Cadmium PM10 LC,1147
+Selenium PM10 STP,1138
+Strontium (TSP) STP,1130
+NOy - NO,1121
+Beryllium PM10 LC,1119
+Chlorodifluoromethane,1119
+Carbonate Carbon CSN PM2.5 LC TOT,1115
+Zirconium (TSP) STP,1102
+Magnesium (TSP) STP,1096
+Tin (TSP) STP,1094
+Methacrolein,1052
+OCX2 Carbon PM2.5 LC,1047
+"1,4-Dioxane",1042
+beta.-Pinene,1038
+Cobalt PM10 LC,1024
+Cadmium (TSP) LC,1019
+Chromium (TSP) LC,1017
+Nickel (TSP) LC,1017
+Selenium PM10 LC,1000
+Arsenic (TSP) LC,999
+Mercury (TSP) STP,982
+Chromium PM10 LC,974
+PM10-2.5 STP,953
+Methane,946
+Beryllium (TSP) LC,945
+2-Methyl-1-butene,940
+1-Nonene,926
+1-Undecene,920
+Calcium (TSP) STP,903
+Potassium (TSP) STP,900
+Vertical Wind Speed,893
+Sulfur (TSP) STP,887
+Coronene (TSP) STP,880
+Std Dev Vt Wind Speed,873
+Antimony PM10 LC,869
+Isobutene,856
+Std Dev Hz Wind Speed,853
+n-Tridecane,852
+1-Octene,850
+Propyne,850
+1-Heptene,842
+Naphthalene,832
+2-Ethyl-1-butene,826
+Dodecene,826
+1-Decene,825
+3-Hexanone,806
+Sulfation rate,790
+3-Chloropropene,790
+Retene (TSP) STP,769
+p-Xylene,747
+Zinc PM10 STP,743
+Black Carbon PM2.5 at 880 nm,739
+2-2-3-Trimethylpentane,736
+Tridecene,732
+9-fluorenone (TSP) STP,729
+PM2.5 STP,716
+Soil index (COH),699
+Cyclopenta[cd]pyrene (TSP) STP,699
+o-Tolualdehyde,695
+Virtual Temperature,678
+m-Xylene,665
+Zinc (TSP) LC,659
+Ethylene oxide,658
+Silicon (TSP) STP,645
+Chloride (TSP) STP,636
+Copper PM10 STP,627
+Rubidium (TSP) STP,626
+Phosphorus (TSP) STP,601
+Mercury PM10 LC,590
+Iron PM10 STP,588
+Mercury PM10 STP,580
+Isobutene & 1-butene,578
+Non-volatile Nitrate PM2.5 LC,569
+Ammonia,534
+Isobutyraldehyde,529
+Lead (TSP) LC Non-FRM/FEM,524
+2-Methyl-3-hexanone,521
+Butyl acetate,521
+n-Propyl acetate,521
+Barium PM10 STP,508
+Silver (TSP) STP,495
+Benzo(a)Pyrene PM10 STP,487
+Benzo(b)Fluranthene PM10 STP,468
+Benzo(k)Fluoranthene PM10 STP,468
+Iron (TSP) LC,456
+Molybdenum PM10 STP ,453
+"Benzo(g,h,i)Perylene PM10 STP",442
+Dibenz(A-H)Anthracene PM10 STP,442
+Lead PM10 LC FRM/FEM,442
+"Indeno[1,2,3-cd] pyrene PM10 STP",442
+Yttrium (TSP) STP,431
+Bromine (TSP) STP,425
+Thallium (TSP) STP,423
+Total reduced sulfur,422
+m & p-Tolualdehyde,400
+p-Tolualdehyde,397
+"1,1-Difluoroethane",386
+"1,1,1,2,2-Pentafluoroethane",386
+Halocarbon 134a,386
+Vanadium PM10 STP,384
+Std Dev Vt Wind Direction,383
+"1,3-Dichloropropene(total)",377
+Carbon Tetrafluoride,375
+Chlorine (TSP),370
+Calcium PM10 STP,369
+Uranium (TSP) STP,368
+Sea Salt (PM2.5),348
+Dibromomethane,348
+PH (precip),348
+Conductivity (precip),347
+3-Pentanone,337
+Heptanal,323
+Dichlorotetrafluoroethane,323
+UV Carbon PM2.5 STP,307
+Methyl Iodide,302
+"Benzene,(1-methylethenyl)-",300
+UV Carbon PM2.5 at 370 nm,290
+Fluoride (TSP) STP,289
+2-Pentanone,287
+Methyl Vinyl Ketone,287
+Total Carbon PM10 STP,286
+Aluminum PM10 STP,285
+Silver PM10 STP,281
+Platinum (TSP) STP,280
+Tin PM10 STP,279
+Xylene(s),264
+Size fractionated particulate,257
+Vanadium PM10 LC,245
+Visibility,245
+Rain 24hr total,242
+Nitrate (precip),239
+Sodium (TSP) STP,237
+Lanthanum (TSP) STP,236
+Total Carbon PM2.5 LC TOT,233
+Sulfate (precip),232
+Ammonium (precip),231
+Chlorine PM10 STP,225
+Titanium PM10 STP,225
+Bromide PM10 STP,225
+Potassium PM10 LC,224
+Strontium PM10 STP,224
+Rubidium PM10 STP,222
+Yttrium PM10 STP,221
+Zirconium PM10 STP,219
+Germanium (TSP) STP,219
+Titanium PM10-2.5 STP,218
+Silicon PM10-2.5 STP,218
+Arsenic PM10-2.5 STP,218
+Aluminum PM10-2.5 STP,218
+Strontium PM10-2.5 STP,218
+Mercury (TSP) LC,218
+Barium PM10-2.5 STP,218
+Phosphorus PM10-2.5 STP,218
+Vanadium PM10-2.5 STP,218
+Selenium PM10-2.5 STP,218
+Zinc PM10-2.5 STP,218
+Mercury PM10-2.5 STP,217
+Aluminum PM2.5 STP,216
+Cobalt PM2.5 STP,216
+Chromium PM10-2.5 STP,216
+Cobalt PM10-2.5 STP,216
+Copper PM2.5 STP,216
+Potassium PM10-2.5 STP,216
+Chlorine PM10-2.5 STP,216
+Rubidium PM10-2.5 STP,216
+Uranium PM10-2.5 STP,216
+Iron PM10-2.5 STP,216
+Bromine PM10-2.5 STP,216
+Yttrium PM10-2.5 STP,216
+Chromium PM2.5 STP,216
+Calcium PM10-2.5 STP,216
+Bromine PM2.5 STP,216
+Barium PM2.5 STP,216
+Molybdenum PM10-2.5 STP,216
+Zirconium PM10-2.5 STP,216
+Nickel PM10-2.5 STP,216
+Calcium PM2.5 STP,216
+Copper PM10-2.5 STP,216
+Arsenic PM2.5 STP,216
+Manganese PM10-2.5 STP,216
+Sulfur PM10-2.5 STP,216
+Chlorine PM2.5 STP,215
+Silicon PM2.5 STP,214
+Rubidium PM2.5 STP,214
+Selenium PM2.5 STP,214
+Manganese PM2.5 STP,214
+Titanium PM2.5 STP,214
+Phosphorus PM2.5 STP,214
+Molybdenum PM2.5 STP,214
+Mercury PM2.5 STP,214
+Uranium PM2.5 STP,214
+Yttrium PM2.5 STP,214
+Sulfur PM2.5 STP,214
+Nickel PM2.5 STP,214
+Iron PM2.5 STP,214
+Zirconium PM2.5 STP,214
+Vanadium PM2.5 STP,214
+Potassium PM2.5 STP,214
+Zinc PM2.5 STP,214
+Strontium PM2.5 STP,214
+Levoglucosan PM2.5 LC,204
+Vinyl bromide,201
+Iodide (TSP) STP,195
+Calcium (precip),195
+Bromide (TSP) STP,195
+Fluoride ion,195
+"1,1,1,2-Tetrachloroethane",193
+Galactosan PM2.5 LC,192
+Mannosan PM2.5 LC,192
+Carbon dioxide,190
+Uranium PM2.5 LC,188
+Lead PM10-2.5 STP,188
+Lead PM2.5 STP,186
+"2,5-Dimethylhexane",183
+Chloride (precip),183
+Dibenzofuran (TSP) STP,182
+m-Tolualdehyde,182
+Net radiation,181
+Fluoride (paper samplers),181
+Total dustfall (SP),179
+Chromium VI (TSP) LC,178
+Magnesium PM10 STP,176
+Potassium (precip),170
+Sodium (precip),170
+Barium PM10 LC,169
+Fluoride (vegation),169
+Tin PM10-2.5 STP,167
+Antimony PM2.5 STP,165
+Antimony PM10-2.5 STP,165
+Sulfur PM10 STP,163
+Tin PM2.5 STP,163
+Mercury (vapor),160
+Nitric acid,158
+Magnesium (precip),156
+Volatile Nitrate PM2.5 LC,154
+Unidentified VOC,153
+"Particle Number, Total Count",153
+Styrene and o-xylene,152
+2-Methylnaphthalene (TSP) STP,152
+Heptane,151
+Molybdenum PM10 LC,150
+2-chlorotoluene,150
+tert-butyl alcohol,150
+Asbestos > 0.5um,146
+Asbestos > 5um,146
+Sodium PM10 STP,144
+Beryllium PM2.5 LC,141
+Atmospheric Stability,140
+Thallium PM10 STP,139
+Phosphorus PM10 STP,138
+Zinc PM10 LC,138
+Copper PM10 LC,138
+Uranium PM10 STP,137
+Benzene soluble organics (TSP),137
+Silicon PM10 STP,137
+Strontium PM10 LC,134
+Sodium PM10 LC,130
+Iron PM10 LC,130
+Butyl benzene,128
+Methyl ethyl ketone & methacrolein,127
+4-Methylpentene & 3-methylpentene,127
+Fluoride PM10 STP,126
+Ammonium (TSP) STP,125
+Cyclohexene,120
+n-Tetradecane,114
+Calcium PM10 LC,111
+Nonanal,111
+Aldehydes,110
+3-Ethylhexane,110
+"2-Methylhexane & 2,3-dimethylpentane ",109
+Bromine PM10 LC,106
+Titanium PM10 LC,106
+n-Butyl alcohol,106
+Boron (TSP) STP,104
+"cis-1,2-Dimethylcyclopentane",103
+Rubidium PM10 LC,103
+"trans-1,3-Dimethylcyclopentane",103
+"2,2,3-Trimethylbutane",103
+D-limonene,102
+"beta.Pinene & 1,2,3- trimethylbenzene",102
+Tin PM10 LC,101
+Aluminum PM10 LC,98
+n-Hexadecane,96
+n-Pentadecane,96
+Alpha-terpinene (TSP) STP,96
+1-Methylnapthalene,96
+4-Phenylcyclohexene,96
+p-tert-butyl toluene,96
+Carbazole (TSP) STP,92
+Silicon PM10 LC,90
+Chlorine PM10 LC,90
+Sulfur PM10 LC,90
+Phosphorus PM10 LC,90
+dichlorofluoromethane,86
+Boron PM10 STP,85
+Palladium PM10 STP,85
+Gallium PM10 STP,85
+Lanthanum PM10 STP,84
+"o-Xylene & 1,1,2,2-tetrachloroethane",84
+Indium PM10 STP,84
+Yttrium PM10 LC,82
+"3,3'-Dichlorobenzidene (TSP) STP",81
+OCX Carbon PM2.5 LC,75
+Suspended particulate (TSP) LC,74
+Pinene & p-ethytoluene,74
+Butryl-aldehyde & Methyl Ethyl Ketone,74
+Ultraviolet radiation (type B),73
+"2,4,4-Trimethyl-1-pentene",72
+"1,2-Dichloroethene(total)",71
+1-Bromopropane,68
+Optical EC PM2.5 LC TOT,68
+Cadmium PM10-2.5 STP,63
+Vert Wind Direction,62
+Cadmium PM2.5 STP,62
+Mixing Height,60
+"2,6-dimethylnaphthalene (TSP) STP",58
+Biphenyl,56
+Beta radiation (TSP),53
+Selenium (TSP) LC,53
+Dustfall Combustible (SP),51
+"2,4-Dichlorophenol (TSP) STP",50
+"2,4,5-Trichlorophenol (TSP) STP",50
+"2,4,6-Trichlorophenol (TSP) STP",50
+Silver PM10 LC,50
+4-Chloro-3-methylphenol  (TSP) STP,50
+"2,3,4,6-Tetrachlorophenol (TSP) STP",50
+"2,6-Dichlorophenol (TSP) STP",50
+Chlorine (TSP) STP,49
+m and p-Cresol  (TSP) STP,46
+o-Cresol (TSP) STP,46
+Phenol  (TSP) STP,46
+Cobalt (TSP) LC,46
+Antimony (TSP) LC,46
+"Cyclopentane & 2,3-dimethylbutane",44
+"1,2-Butadiene",41
+Indium (TSP) STP,41
+Gallium (TSP) STP,41
+m/p Ethyltoluene,41
+NITROUS OXIDE,39
+Diethyl phthalate  (TSP) STP,39
+Black Carbon  PM2.5 Corrected,39
+Total non-asbestos fibers,38
+Thallium PM2.5 LC,38
+2-Chloronaphthalene (TSP) STP,38
+"2,7-dimethylnaphthalene (TSP) STP",38
+Palladium PM2.5 LC,38
+bis (2-chloroethyl)ether  (TSP) STP,37
+Hexachloroethane (TSP) STP,37
+Isodrin  (TSP) STP,36
+2-Picoline  (TSP) STP,36
+3-Nitroaniline  (TSP) STP,36
+Safrole (TSP) STP,36
+N-Nitrosopiperidine  (TSP) STP,36
+Hexachloropropene  (TSP) STP,36
+Phenacetin  (TSP) STP,36
+Diallate  (TSP) STP,36
+Benzidine  (TSP) STP,36
+"1,2,4-Trichlorobenzene (TSP) STP",36
+4-Aminobiphenyl  (TSP) STP,36
+"1,3-Dinitrobenzene (TSP) STP",36
+Hexachlorobutadiene  (TSP) STP,36
+Hexachlorobenzene (TSP) STP,36
+bis(2-chloroethoxy)methane  (TSP) STP,36
+5-Nitro-o-toluidine  (TSP) STP,36
+"7,12-Dimethylbenz[a]anthracene  (TSP) STP",36
+"1,4-Dichlorobenzene (TSP) STP",36
+"2,4-Dinitrophenol (TSP) STP",36
+Benzyl alcohol  (TSP) STP,36
+"1,3-Dichlorobenzene (TSP) STP",36
+Di-n-octyl phthalate  (TSP) STP,36
+Isosafrole  (TSP) STP,36
+Ethane & acetylene,36
+2-Chlorophenol  (TSP) STP,36
+"2,6-Dinitrotoluene (TSP) STP",36
+Diphenylamine  (TSP) STP,36
+Pentachloroethane  (TSP) STP,36
+Chlorobenzilate  (TSP) STP,36
+Isomers of dodecane,36
+N-Nitrosodibutylamine  (TSP) STP,36
+4-Nitroaniline  (TSP) STP,36
+Methyl methanesulfonate  (TSP) STP,36
+Dimethyl phthalate  (TSP) STP,36
+2-Nitroaniline  (TSP) STP,36
+o-Toluidine (TSP) STP,36
+"2,4-Dimethylphenol (TSP) STP",36
+Pentachlorophenol (TSP) STP,36
+Ethyl methanesulfonate  (TSP) STP,36
+4-Nitrophenol  (TSP) STP,36
+Butyl benzyl phthalate  (TSP) STP,36
+2-Naphthylamine  (TSP) STP,36
+Nitrobenzene (TSP) STP,36
+bis(2-chloroisopropyl)ether  (TSP) STP,36
+4-Chlorophenyl-phenyl ether  (TSP) STP,36
+4-Dimethylaminoazobenzene  (TSP) STP,36
+3-Methylcholanthrene  (TSP) STP,36
+Pentachloronitrobenzene (TSP) STP,36
+"4,6-Dinitro-2-methylphenol  (TSP) STP",36
+2-Nitrophenol  (TSP) STP,36
+1-Naphthylamine (TSP) STP,36
+bis(2-ethylhexyl)phthalate  (TSP) STP,36
+N-Nitrosodipropylamine  (TSP) STP,36
+Aniline  (TSP) STP,36
+N-Nitrosodimethylamine (TSP) STP,36
+4-Chloroaniline  (TSP) STP,36
+N-Nitrosomethylethylamine  (TSP) STP,36
+Hexachlorocyclopentadiene (TSP) STP,36
+"3,3'-Dimethoxybenzidine  (TSP) STP",36
+Dinoseb  (TSP) STP,36
+N-Nitrosopyrrolidine  (TSP) STP,36
+2-Acetylaminofluorene (TSP) STP,36
+"2,4-Dinitrotoluene (TSP) STP",36
+4-Bromophenyl phenyl ether  (TSP) STP,36
+N-Nitrosodiethylamine  (TSP) STP,36
+Acetophenone  (TSP) STP,36
+Di-n-butyl phthalate  (TSP) STP,36
+"1,2-Dichlorobenzene (TSP) STP  ",36
+Isophorone (TSP) STP,36
+Azobenzene  (TSP) STP,36
+"1,2,4,5-Tetrachlorobenzene (TSP) STP",36
+Pentachlorobenzene (TSP) STP,36
+"1,4-Naphthoquinone (TSP) STP",36
+Pronamide (TSP) STP,36
+Pyridine (TSP) STP,36
+m(and p)-Ethyltoluene,35
+4-Methylheptane,34
+Volume (precip),33
+"2,2',3,3',4,5',6,6'-Octachlorobiphenyl (TSP) STP",30
+"2,3',4'-Trichlorobiphenyl (TSP) STP",30
+Mixture PCB 4/10 (TSP) STP,30
+"2,2',3,4',5'-Pentachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,4',5,5'-Octachlorobiphenyl (TSP) STP",30
+"2,3,3',4,4',6-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,4'-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,3',5,5',6-Heptachlorobiphenyl (TSP) STP",30
+Mixture PCB 56/60 (TSP) STP,30
+Methanol,30
+"2,3',4',5-Tetrachlorobiphenyl (TSP) STP",30
+"2,2',3,4,4',5',6-Heptachlorobiphenyl (TSP) STP",30
+"2,2',3,4,5,5'-Hexachlorobiphenyl (TSP) STP",30
+"2,3',6-Trichlorobiphenyl (TSP) STP",30
+"2,2',3,4,4',5,5'-Heptachlorobiphenyl (TSP) STP",30
+"2,3,4',5-Tetrachlorobiphenyl (TSP) STP",30
+"2,3',4,4'-Tetrachlorobiphenyl (TSP) STP",30
+"2,2',3,4,5'-Pentachlorobiphenyl (TSP) STP",30
+"2,3',5-Trichlorobiphenyl (TSP) STP",30
+"2,2',3,4',5,5'-Hexachlorobiphenyl (TSP) STP",30
+"3,3',4,4',5,5'-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,4,4'-Pentachlorobiphenyl (TSP) STP",30
+"2,2',5,6'-Tetrachlorobiphenyl (TSP) STP",30
+"2,2',3,5'-Tetrachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,5'-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,6'-Tetrachlorobiphenyl (TSP) STP",30
+"2,2',3,4,5,5',6-Heptachlorobiphenyl (TSP) STP",30
+"2,2',3,4',5',6-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,5,5',6'-Octachlorobiphenyl (TSP) STP",30
+"2,3'-Dichlorobiphenyl (TSP) STP",30
+"2,3,3',4',5,5',6-Heptachlorobiphenyl (TSP) STP",30
+"2,2',3,3',5-Pentachlorobiphenyl (TSP) STP",30
+Mixture PCB 41/71/64 (TSP) STP,30
+"2,2',3,3',4-Pentachlorobiphenyl (TSP) STP",30
+"2,2',5-Trichlorobiphenyl (TSP) STP",30
+"2,2',3,5,5'-Pentachlorobiphenyl (TSP) STP",30
+Mixture PCB 18/32 (TSP) STP,30
+Mixture PCB 37/42 (TSP) STP,30
+"2,3',4-Trichlorobiphenyl (TSP) STP",30
+Mixture PCB 171/202 (TSP) STP,30
+Mixture PCB 7/ 9 (TSP) STP,30
+"2,2',3,4',6-Pentachlorobiphenyl (TSP) STP",30
+"2,4,4',5-Tetrachlorobiphenyl (TSP) STP",30
+"2,3,3',4,4',5-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,5',6-Pentachlorobiphenyl (TSP) STP",30
+Mixture PCB 203/196 (TSP) STP,30
+"2,2',4,5,5'-Pentachlorobiphenyl (TSP) STP",30
+"2,2',5,5'-Tetrachlorobiphenyl (TSP) STP",30
+"2,3',4,4',5-Pentachlorobiphenyl (TSP) STP",30
+"2,3,4'-Trichlorobiphenyl (TSP) STP",30
+"2,2',3,4',5,5',6-Heptachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,4',5,5',6-Nonachlorobiphenyl (TSP) STP",30
+"2,2',4,5'-Tetrachlorobiphenyl (TSP) STP",30
+Mixture PCB 77/110 (TSP) STP,30
+"2,3',4,4',5,5',-Hexachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,5,6'-Heptachlorobiphenyl (TSP) STP",30
+"2,4'-Dichlorobiphenyl (TSP) STP",30
+"2,2',4,4',5-Pentachlorobiphenyl (TSP) STP",30
+"2,2',3,4,6'-Pentachlorobiphenyl (TSP) STP",30
+"2,2',3,5,5',6-Hexachlorobiphenyl (TSP) STP",30
+Mixture PCB 28/31 (TSP) STP,30
+"2,2',3,3'-Tetrachlorobiphenyl (TSP) STP",30
+Mixture PCB 105/132/153 (TSP) STP,30
+"3,3'-Dichlorobiphenyl (TSP) STP",30
+Mixture PCB 135/144 (TSP) STP,30
+"3,3',4,4',5-Pentachlorobiphenyl (TSP) STP",30
+"2,2',6-Trichlorobiphenyl (TSP) STP",30
+Mixture PCB 208/195 (TSP) STP,30
+Mixture PCB 170/190 (TSP) STP,30
+Mixture PCB 47/48 (TSP) STP,30
+"2,2',3,6-Tetrachlorobiphenyl (TSP) STP",30
+Mixture PCB 15/17 (TSP) STP,30
+"2,2',3,3',4,5',6'-Heptachlorobiphenyl (TSP) STP",30
+"2,2',3,3',4,5,5'-Heptachlorobiphenyl (TSP) STP",30
+"2,2',3,3',6-Pentachlorobiphenyl (TSP) STP",30
+Mixture PCB 138/163 (TSP) STP,30
+Acidity (precip),29
+Hydrogen ion conc (TSP) STP,29
+2-Methyl-2-pentene,28
+"1,2,4,5-Tetramethylbenzene",28
+Strong Acids (precip),25
+Hydrochloric acid,25
+Light scatter (miles visibility),25
+"2,3-Dimethyl-2-pentene",24
+Cyclopropane,24
+1-Methylcyclohexene,24
+Limonene,24
+n-Hexylbenzene,24
+Butylbenzene,24
+Palladium (TSP) STP,24
+"1,3-Hexadiene",24
+sec-Butylbenzene,24
+o-Diethylbenzene,24
+cis-3-Hexene,24
+Zirconium PM10 LC,24
+Thallium PM10 LC,24
+Hydrofluoric acid,24
+Optical EC PM2.5 STP TOT,23
+cis/trans-2-Pentene,22
+EH IMPROVE PM2.5 LC,22
+Sulfate (TSP) LC,22
+cis/trans-2-Hexene,22
+cis/trans-2-Butene,22
+m(and p)-Xylene & bromoform,22
+OCH PM2.5 LC TOT,22
+Total Carbon PM2.5 STP TOT,21
+"4,4-Methylenediphenyl Diisocyanate (MDI)",20
+"2,4-Toluene Diisocyanate",20
+2-6-TOLUENEDIISOCYANATE,20
+Uranium PM10 LC,20
+Nitrate (TSP) LC,20
+Hexamethylene diisocyanate,20
+Polynuclear aromatic hydrocarbons (TSP) STP,19
+2-Chloroethyl vinyl ether,18
+Cesium (TSP) STP,17
+Terbium (TSP) STP,17
+Europium (TSP) STP,17
+Niobium (TSP) STP,17
+Tantalum (TSP) STP,17
+Tungsten (TSP) STP,17
+Cerium (TSP) STP,17
+Scandium (TSP) STP,17
+Mercury compounds,17
+Samarium (TSP) STP,17
+Gold (TSP) STP,17
+Iridium (TSP) STP,17
+Silicon PM10-2.5 LC,16
+Cesium PM10-2.5 LC,16
+EC1 CSN_rev Unadjusted PM10-2.5 LC,16
+OC3 CSN_rev Unadjusted PM10-2.5 LC,16
+Zinc PM10-2.5 LC,16
+Copper PM10-2.5 LC,16
+Sodium Ion PM10-2.5 LC,16
+Silver PM10-2.5 LC,16
+Chromium PM10-2.5 LC,16
+EC2 CSN_rev Unadjusted PM10-2.5 LC,16
+Selenium PM10-2.5 LC,16
+Aluminum PM10-2.5 LC,16
+Lead PM10-2.5 LC,16
+Arsenic PM10-2.5 LC,16
+Magnesium PM10-2.5 LC,16
+Chlorine PM10-2.5 LC,16
+EC3 CSN_rev Unadjusted PM10-2.5 LC,16
+Phosphorus PM10-2.5 LC,16
+Sulfate PM10-2.5 LC,16
+Nickel PM10-2.5 LC,16
+Calcium PM10-2.5 LC,16
+Potassium PM10-2.5 LC,16
+Indium PM10-2.5 LC,16
+Sodium PM10-2.5 LC,16
+OP CSN_rev Unadjusted PM10-2.5 LC TOT,16
+Total Nitrate PM10-2.5 LC,16
+OC CSN_rev Unadjusted PM10-2.5 LC TOT,16
+Magnesium PM10 LC,16
+Antimony PM10-2.5 LC,16
+Ammonium Ion PM10-2.5 LC,16
+Cobalt PM10-2.5 LC,16
+OC1 CSN_rev Unadjusted PM10-2.5 LC,16
+Cadmium PM10-2.5 LC,16
+Non-volatile nitrate PM10-2.5 LC,16
+OC4 CSN_rev Unadjusted PM10-2.5 LC,16
+OP CSN_rev Unadjusted PM10-2.5 LC TOR,16
+Iron PM10-2.5 LC,16
+Zirconium PM10-2.5 LC,16
+Volatile nitrate PM10-2.5 LC,16
+OC CSN_rev Unadjusted PM10-2.5 LC TOR,16
+EC CSN_rev Unadjusted PM10-2.5 LC TOR,16
+Rubidium PM10-2.5 LC,16
+EC CSN_rev Unadjusted PM10-2.5 LC TOT,16
+Potassium Ion PM10-2.5 LC,16
+Manganese PM10-2.5 LC,16
+Strontium PM10-2.5 LC,16
+Bromine PM10-2.5 LC,16
+"Benzo[b,k]fluoranthene (TSP) STP",16
+Tin PM10-2.5 LC,16
+Cerium PM10-2.5 LC,16
+Vanadium PM10-2.5 LC,16
+Titanium PM10-2.5 LC,16
+Barium PM10-2.5 LC,16
+Sulfate PM2.5 STP ,16
+OC2 CSN_rev Unadjusted PM10-2.5 LC,16
+Sulfur PM10-2.5 LC,16
+OC CSN Unadjusted PM2.5 STP TOT,15
+"1,2-Epoxybutane",15
+Decanal,15
+"1,3,5-Trichlorobenzene",15
+Dichloroethyl ether,15
+"1,2,3-Trichloropropane",15
+2-Nitropropane,15
+Nitrobenzene,15
+Total sulfur,15
+Epichlorohydrin,15
+Octanal,15
+Phenol,15
+"1,2,3,4,5,6- Hexachlorocyclohexane",14
+"1,2,3,4,5,6- Hexachlolocyclohexane, .beta.-",14
+"1,3-dinitropyrene (TSP) STP",14
+"1,1-Bis(4-chlorophenyl)-2,2-dichloroethane",14
+Aldrin,14
+Methoxychlor,14
+Endosulfan 1 (alpha),14
+Aluminum (TSP) LC,14
+Endrin,14
+Heptachlor,14
+Endosulfan 2,14
+Endrin ketone,14
+"1,2,3,4,5,6- Hexachlorocyclohexane, .delta.-",14
+Heptachlor epoxide,14
+3-nitrofluoranthene (TSP) STP,14
+1-nitropyrene (TSP) STP,14
+Dieldrin,14
+"1,1,1-Trichloro-2,2-bis (p-chlorophenyl) ethane",14
+Endosulfan sulfate,14
+"1,1-Dichloroethenylidene bis(4-chlorobenzene)",14
+"n-Octane & trans-1,3-dichloropropylene",14
+Lindane,14
+Propionitrile,13
+Hafnium (TSP) STP,13
+Thorium PM10 LC,13
+"2,3-Dimethylbutane & 2-Methylpentane",12
+Relative Humidity,11
+Dry deposition,11
+"Particle Number, > 200 nm",10
+"Particle Number, 30-50 nm",9
+Strontium - 88 (TSP),9
+"Particle Number, 70-100 nm",9
+"Particle Number, 100-200 nm",9
+Antimony - 121 (TSP),9
+Manganese - 55 (TSP),9
+"Particle Number, 20-30 nm",9
+Cobalt - 59 (TSP),9
+Particle Light Scatter,9
+Lead - 208 (TSP),9
+Copper - 63 (TSP),9
+Molybdenum - 98 (TSP),9
+"Particle Number, 50-70 nm",9
+Calcium (TSP) LC,8
+Arsenic - 75 (TSP),8
+Magnesium (TSP) LC,8
+"4,4-Methylenedianiline",8
+Tin (TSP) LC,8
+Copper(TSP) LC,8
+Nitrous acid,8
+Op CSN_rev Unadjusted PM10 LC TOR,8
+Paraffins (alkanes),8
+Potassium Ion PM10 LC,8
+OC CSN_rev Unadjusted PM10 LC TOR,8
+OC3 CSN_rev Unadjusted PM10 LC,8
+Ammonium Ion PM10 LC,8
+EC2 CSN_rev Unadjusted PM10 LC,8
+Cesium Pm10 Lc,8
+OC2 CSN_rev Unadjusted PM10 LC,8
+EC CSN_rev Unadjusted PM10 LC TOR,8
+Total Nitrate PM10 LC,8
+Non-volatile nitrate PC10 LC,8
+EC1 CSN_rev Unadjusted PM10 LC,8
+Indium Pm10 Lc,8
+OC1 CSN_rev Unadjusted PM10 LC,8
+EC CSN_rev Unadjusted PM10 LC TOT,8
+OC CSN_rev Unadjusted PM10 LC TOT,8
+Cerium Pm10 Lc,8
+EC3 CSN_rev Unadjusted PM10 LC,8
+Alpha radiation (TSP),8
+Nitrate PM2.5 STP ,8
+Sodium Ion PM10 LC,8
+OC4 CSN_rev Unadjusted PM10 LC,8
+Volatile nitrate PM10 LC,8
+Bismuth (TSP) STP,8
+Op CSN_rev Unadjusted PM10 LC TOT,8
+Sulfate PM10 LC,8
+Iron - 56 (TSP),7
+2-Methylnaphthalene,7
+"2,4-Dimethylhexane",7
+Zinc - 66 (TSP),7
+1-Methylnaphthalene,7
+Tin - 117 (TSP),7
+Nickel - 60 (TSP),7
+"2,3-Dimethylhexane",7
+Light scatter (ug/m3),6
+Isopentane & cyclopentane,6
+Silica PM10 STP,6
+Organic carbon PM10 STP,6
+Lapse Rate,6
+Water Insol Wt (SP),6
+Vanadium (TSP) LC,6
+Barium (TSP) LC,6
+Chromium - 52 (TSP),6
+n-Pinene & benzaldehyde,5
+PM1 - Local Conditions,5
+DIMETHYL SULFIDE,5
+"Dibenzo[b,e][1,4]dioxin,2,3,7,8-tetrachloro (TSP) STP",5
+Tin - 120 (TSP),4
+Iron - 57 (TSP),4
+Polycyclic organic matter (TSP) STP,4
+Arsenic (SP),4
+Mercury (SP),4
+Lead (precip),4
+Zinc - 64 (TSP),4
+Nickel - 58 (TSP),4
+Infrared Radiation,4
+Nickel (SP),4
+Zinc (SP),4
+Lead (SP),4
+Iron (SP),4
+Copper (SP),4
+Temperature 24-Hr Min,4
+Thallium (TSP) LC,4
+Zinc (precip),4
+Temperature 24-Hr Max,4
+Cadmium (precip),4
+PM 2.5 Carbon at 470 nm,4
+PM 2.5 Carbon at 590 nm,4
+Infrared PM 2.5 Carbon at 950 nm,4
+cis-Crotonaldehyde,4
+PM 2.5 Carbon at 660 nm,4
+PM 2.5 Carbon at 520 nm,4
+Antimony (SP),4
+Ammonia (SP),4
+Chromium (SP),4
+Silver (SP),4
+n-Propyl alcohol,4
+Manganese (SP),4
+Arsenic (precip),4
+Elemental Carbon PM10 STP,4
+Indan,4
+Cadmium (SP),4
+Acetophenone,3
+Ethylcyclohexane,3
+Chromium - 53 (TSP),3
+"2,2,4-Trimethylhexane",3
+"2,4,4-Trimethyl-2-pentene",3
+Total chlorinated hydrocarbons,3
+Chromium - 50 (TSP),3
+"2,2-Dimethylpropane",3
+cis-4-Methyl-2-pentene,3
+Hydronium ion,3
+"1,2,4-Trimethylbenzene & sec-butylbenzene",3
+"2,2-Dimethylheptane",3
+1-nitropyrene PM2.5 LC,3
+Total Oxidants,3
+PM2.5 Carbon at 430 nm,2
+Bromofluorobenzene,2
+Mercury (deposition),2
+O-xylene & N-nonane,2
+Phosphate (TSP) STP,2
+2-Methylheptane & 3-Methylheptane,2
+Propylene oxide,2
+PM2.5 Carbon at 565 nm,2
+PM2.5 Carbon at 525 nm,2
+PM2.5 Carbon at 700 nm,2
+Total hexachlorodibenzo-p-dioxin (TSP) STP,1
+"1,2,3,4,7,8,9-Heptachlorodibenzofuran (TSP) STP",1
+"2,3,4,7,8-Pentachlorodibenzofuran (TSP) STP",1
+"1,2,3,7,8,9-Hexachlorodibenzofuran (TSP) STP",1
+"2,3,7,8-Tetrachlorodibenzofuran (TSP) STP",1
+"1,2,3,4,7,8-Hexachlorodibenzofuran (TSP) STP",1
+"1,2,3,6,7,8-Hexachlorodibenzofuran (TSP) STP",1
+"1,2,3,7,8,9-Hexachlorodibenzo-p-dioxin (TSP) STP",1
+"1,2,3,6,7,8-Hexachlorodibenzo-p-dioxin (TSP) STP",1
+Total octachlorodibenzofuran (TSP) STP,1
+"1,2,3,7,8-Pentachlorodibenzofuran (TSP) STP",1
+Total pentachlorodibenzo-p-dioxin (TSP) STP,1
+"2,3,4,6,7,8-Hexachlorodibenzofuran (TSP) STP",1
+Total octachlorodibenzo-p-dioxin (TSP) STP,1
+"1,2,3,4,6,7,8-Heptachlorodibenzofuran (TSP) STP",1
+Ethylene & acetylene,1
+"1,2,3,4,6,7,8-Heptachlorodibenzo-p-dioxin (TSP) STP",1
+Copper(precip),1
+Isomers of ethyltoluene,1

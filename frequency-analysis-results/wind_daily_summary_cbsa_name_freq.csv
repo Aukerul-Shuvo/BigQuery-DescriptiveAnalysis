@@ -1,0 +1,353 @@
+cbsa_name,count
+"Houston-The Woodlands-Sugar Land, TX",522263
+"Dallas-Fort Worth-Arlington, TX",428859
+"Santa Maria-Santa Barbara, CA",401275
+"St. Louis, MO-IL",311636
+"Denver-Aurora-Lakewood, CO",263664
+"Los Angeles-Long Beach-Anaheim, CA",241185
+"Detroit-Warren-Dearborn, MI",225112
+"Riverside-San Bernardino-Ontario, CA",221838
+"Phoenix-Mesa-Scottsdale, AZ",217824
+"Chicago-Naperville-Elgin, IL-IN-WI",216732
+"Sacramento--Roseville--Arden-Arcade, CA",200858
+"El Paso, TX",195375
+"San Diego-Carlsbad, CA",184708
+"San Luis Obispo-Paso Robles-Arroyo Grande, CA",178037
+"Beaumont-Port Arthur, TX",164919
+"Bakersfield, CA",153928
+"Oxnard-Thousand Oaks-Ventura, CA",143569
+"San Antonio-New Braunfels, TX",108785
+"Bishop, CA",105269
+"Corpus Christi, TX",105055
+"Portland-Vancouver-Hillsboro, OR-WA",95354
+"New York-Newark-Jersey City, NY-NJ-PA",90760
+"Tucson, AZ",90490
+"Fresno, CA",87583
+"Las Vegas-Henderson-Paradise, NV",85088
+"Colorado Springs, CO",83169
+"Austin-Round Rock, TX",83035
+"Kansas City, MO-KS",78640
+"Visalia-Porterville, CA",77794
+"Baltimore-Columbia-Towson, MD",77292
+"Grand Rapids-Wyoming, MI",71698
+"Buffalo-Cheektowaga-Niagara Falls, NY",66281
+"El Centro, CA",62934
+"Baton Rouge, LA",61896
+"Chico, CA",57044
+"Tulsa, OK",56594
+"Washington-Arlington-Alexandria, DC-VA-MD-WV",48444
+"Seattle-Tacoma-Bellevue, WA",48052
+"Stockton-Lodi, CA",48040
+"Charlotte-Concord-Gastonia, NC-SC",47687
+"Fort Collins, CO",47195
+"Eugene, OR",46817
+"Davenport-Moline-Rock Island, IA-IL",45618
+"Indianapolis-Carmel-Anderson, IN",44976
+"Jackson, WY-ID",43670
+"Louisville/Jefferson County, KY-IN",42059
+"Flint, MI",40303
+"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD",39699
+"Bangor, ME",39556
+"Knoxville, TN",39540
+"Brownsville-Harlingen, TX",38356
+"Hilo, HI",38256
+"Pittsburgh, PA",37431
+"Atlanta-Sandy Springs-Roswell, GA",37028
+"Oklahoma City, OK",34790
+"McAllen-Edinburg-Mission, TX",34477
+"Lewiston, ID-WA",34369
+"Jamestown-Dunkirk-Fredonia, NY",33845
+"Odessa, TX",33720
+"San Jose-Sunnyvale-Santa Clara, CA",33142
+"Laredo, TX",32668
+"Kalamazoo-Portage, MI",32550
+"Providence-Warwick, RI-MA",32236
+"Grand Junction, CO",32233
+"Hanford-Corcoran, CA",32023
+"Columbia, SC",31369
+"Modesto, CA",30754
+"Albany-Schenectady-Troy, NY",30448
+"Sevierville, TN",29434
+"Yuba City, CA",28381
+"Evansville, IN-KY",26724
+"Rock Springs, WY",26626
+"Burlington-South Burlington, VT",26622
+"Longview, TX",26213
+"Hartford-West Hartford-East Hartford, CT",25743
+"La Grande, OR",25172
+"Milwaukee-Waukesha-West Allis, WI",25080
+"Bismarck, ND",25072
+"Fort Wayne, IN",24019
+"Decatur, IL",24001
+"Muscatine, IA",23822
+"Sonora, CA",23364
+"Boston-Cambridge-Newton, MA-NH",23333
+"Bowling Green, KY",23034
+"Redding, CA",22959
+"Flagstaff, AZ",22854
+"South Bend-Mishawaka, IN-MI",22811
+"Madera, CA",22726
+"Muskegon, MI",22375
+"Victoria, TX",22335
+"Rapid City, SD",22277
+"Miami-Fort Lauderdale-West Palm Beach, FL",22077
+"Rochester, NY",22006
+"Tyler, TX",21486
+"Adrian, MI",20677
+"Idaho Falls, ID",20659
+"Ludington, MI",20594
+"Holland, MI",20580
+"Niles-Benton Harbor, MI",20570
+"Sierra Vista-Douglas, AZ",20198
+"Minneapolis-St. Paul-Bloomington, MN-WI",20070
+"Hermiston-Pendleton, OR",19531
+"Syracuse, NY",19528
+"Helena, MT",19509
+"Kalispell, MT",19322
+"Charleston-North Charleston, SC",19026
+"Duluth, MN-WI",18675
+"Marshall, TX",18574
+"Grants Pass, OR",18400
+"Klamath Falls, OR",18382
+"Utica-Rome, NY",17978
+"Lewiston-Auburn, ME",17876
+"Rockford, IL",17748
+"Lansing-East Lansing, MI",17514
+"Des Moines-West Des Moines, IA",17314
+"Greenville-Anderson-Mauldin, SC",17304
+"Port Angeles, WA",17112
+"New Haven-Milford, CT",17092
+"Cadillac, MI",17079
+"Bridgeport-Stamford-Norwalk, CT",17040
+"Quincy, IL-MO",16424
+"Peoria, IL",16356
+"St. Joseph, MO-KS",16090
+"Portland-South Portland, ME",15926
+"Elmira, NY",15844
+"Riverton, WY",15824
+"Medford, OR",15628
+"Ann Arbor, MI",15597
+"Clinton, IA",15554
+"Dickinson, ND",15471
+"Winston-Salem, NC",15341
+"Killeen-Temple, TX",15326
+"Birmingham-Hoover, AL",14663
+"Yakima, WA",14598
+"Joplin, MO",14568
+"Cincinnati, OH-KY-IN",14478
+"Springfield, MO",13903
+"Omaha-Council Bluffs, NE-IA",13722
+"Waterloo-Cedar Falls, IA",13478
+"Kingsville, TX",13244
+"Show Low, AZ",13198
+"Reno, NV",13196
+"St. George, UT",13096
+"Kingston, NY",13048
+"Coeur d'Alene, ID",13012
+"Corsicana, TX",12946
+"Vernal, UT",12931
+"Bend-Redmond, OR",12894
+"Spokane-Spokane Valley, WA",12829
+"Durango, CO",12649
+"Jasper, IN",12616
+"San Francisco-Oakland-Hayward, CA",12564
+"Fargo, ND-MN",12506
+"Bay City, MI",12044
+"Concord, NH",12041
+"Augusta-Richmond County, GA-SC",11993
+"Fairbanks, AK",11961
+"Tampa-St. Petersburg-Clearwater, FL",11869
+"Ottawa-Peru, IL",11830
+"Eagle Pass, TX",11766
+"Merced, CA",11561
+"Cedar Rapids, IA",11464
+"Pocatello, ID",11343
+"Savannah, GA",11174
+"Lafayette-West Lafayette, IN",11170
+"Boise City, ID",11142
+"Georgetown, SC",11072
+"Salt Lake City, UT",11059
+"Rockland, ME",10908
+"Lubbock, TX",10800
+"Salisbury, MD-DE",10770
+"Rutland, VT",10634
+"Augusta-Waterville, ME",10614
+"Ogden-Clearfield, UT",10585
+"Boulder, CO",10537
+"Casper, WY",10450
+"Steamboat Springs, CO",10381
+"Waco, TX",10322
+"New Castle, IN",10234
+"Springfield, IL",10156
+"Sioux Falls, SD",10088
+"Gillette, WY",10080
+"Portsmouth, OH",10038
+"Traverse City, MI",9968
+"Red Bluff, CA",9941
+"Amarillo, TX",9894
+"Cheyenne, WY",9862
+"Glenwood Springs, CO",9817
+"Manchester-Nashua, NH",9798
+"Raleigh, NC",9747
+"Wichita, KS",9237
+"Bennington, VT",9236
+"Mount Vernon-Anacortes, WA",9149
+"Huntington-Ashland, WV-KY-OH",8974
+"Greeley, CO",8900
+"Salem, OR",8847
+"Tallahassee, FL",8710
+"Little Rock-North Little Rock-Conway, AR",8654
+"Corning, NY",8646
+"Hagerstown-Martinsburg, MD-WV",8558
+"Ionia, MI",8438
+"Muskogee, OK",8272
+"Truckee-Grass Valley, CA",8253
+"Lawton, OK",8248
+"Iowa City, IA",8244
+"Twin Falls, ID",8189
+"Sioux City, IA-NE-SD",8156
+"Prineville, OR",8004
+"Albuquerque, NM",7969
+"Urban Honolulu, HI",7906
+"Dayton, OH",7806
+"Seymour, IN",7806
+"Madison, WI",7724
+"Jackson, MS",7472
+"Greensboro-High Point, NC",7358
+"Wenatchee, WA",7328
+"Champaign-Urbana, IL",7304
+"Mount Vernon, IL",7224
+"Sandpoint, ID",7192
+"Cambridge, MD",7106
+"Laconia, NH",7082
+"Cleveland-Elyria, OH",7033
+"Branson, MO",6930
+"Wichita Falls, TX",6790
+"Bloomington, IN",6716
+"Claremont-Lebanon, NH-VT",6702
+"Beaver Dam, WI",6605
+"Malone, NY",6603
+"Keene, NH",6538
+"Lexington-Fayette, KY",6501
+"Middlesborough, KY",6444
+"Kennewick-Richland, WA",6419
+"Terre Haute, IN",6073
+"Sheboygan, WI",6070
+"Owensboro, KY",6049
+"Monroe, MI",5832
+"Saginaw, MI",5829
+"Moscow, ID",5689
+"Baraboo, WI",5664
+"Torrington, CT",5616
+"Paducah, KY-IL",5596
+"Brunswick, GA",5594
+"Columbus, GA-AL",5564
+"Eau Claire, WI",5514
+"Dalton, GA",5472
+"Macon, GA",5465
+"Ames, IA",5400
+"College Station-Bryan, TX",5358
+"Effingham, IL",5354
+"Burlington, NC",5332
+"Marion, NC",5330
+"Dover, DE",5320
+"Washington, NC",5178
+"Bozeman, MT",5055
+"Williston, ND",5000
+"Goldsboro, NC",4990
+"Fayetteville, NC",4933
+"Clarksville, TN-KY",4814
+"Kinston, NC",4752
+"Sault Ste. Marie, MI",4691
+"Memphis, TN-MS-AR",4554
+"Mason City, IA",4503
+"Bellingham, WA",4379
+"Texarkana, TX-AR",4264
+"Crescent City, CA",4188
+"Michigan City-La Porte, IN",4099
+"Albany, OR",4057
+"Charleston, WV",4048
+"Glens Falls, NY",3954
+"Farmington, NM",3844
+"Borger, TX",3842
+"Craig, CO",3796
+"Enid, OK",3758
+"Mount Pleasant, TX",3732
+"Minot, ND",3724
+"Big Spring, TX",3714
+"Appleton, WI",3712
+"Salinas, CA",3580
+"Richmond, IN",3548
+"Myrtle Beach-Conway-North Myrtle Beach, SC-NC",3545
+"Jefferson City, MO",3430
+"Durham-Chapel Hill, NC",3430
+"Auburn, IN",3374
+"Richmond, VA",3318
+"Sanford, NC",3312
+"Columbus, OH",3274
+"Moses Lake, WA",3230
+"Manitowoc, WI",3102
+"Kahului-Wailuku-Lahaina, HI",2882
+"Provo-Orem, UT",2817
+"Alma, MI",2796
+"Santa Cruz-Watsonville, CA",2732
+"Coos Bay, OR",2696
+"Washington, IN",2554
+"Asheville, NC",2542
+"Aberdeen, WA",2444
+"Houghton, MI",2408
+"Gardnerville Ranchos, NV",2384
+"Walla Walla, WA",2322
+"Wheeling, WV-OH",2316
+"Whitewater-Elkhorn, WI",2306
+"Rome, GA",2184
+"Mobile, AL",2165
+"Pontiac, IL",2154
+"Spartanburg, SC",2126
+"Staunton-Waynesboro, VA",2120
+"Carlsbad-Artesia, NM",2088
+"Platteville, WI",1998
+"Alpena, MI",1962
+"Montrose, CO",1962
+"La Crosse-Onalaska, WI-MN",1674
+"Ca?on City, CO",1624
+"San Juan-Carolina-Caguas, PR",1616
+"Weirton-Steubenville, WV-OH",1600
+"Midland, MI",1570
+"Wausau, WI",1560
+"Ca¤on City, CO",1386
+"Marietta, OH",1308
+"Toledo, OH",1270
+"Scranton--Wilkes-Barre--Hazleton, PA",1214
+"Laramie, WY",1168
+"Akron, OH",1160
+"Lincoln, IL",1142
+"Bemidji, MN",1132
+"Youngstown-Warren-Boardman, OH-PA",1108
+"Greenwood, SC",1022
+"Danville, VA",910
+"New Orleans-Metairie, LA",846
+"Crawfordsville, IN",768
+"Sheridan, WY",766
+"Greeneville, TN",726
+"Del Rio, TX",668
+"Seneca, SC",634
+"Warsaw, IN",554
+"Winona, MN",546
+"Parkersburg-Vienna, WV",446
+"Reading, PA",420
+"Lufkin, TX",412
+"Coffeyville, KS",408
+"Newport, OR",390
+"Lynchburg, VA",370
+"York-Hanover, PA",350
+"Wilmington, NC",348
+"Shreveport-Bossier City, LA",300
+"Roseburg, OR",288
+"Longview, WA",260
+"Pensacola-Ferry Pass-Brent, FL",240
+"Montgomery, AL",236
+"Olean, NY",232
+"Salem, OH",206
+"Brainerd, MN",170
+"Pueblo, CO",60

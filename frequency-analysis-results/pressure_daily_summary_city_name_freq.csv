@@ -1,0 +1,336 @@
+city_name,count
+Not in a city,722151
+New York,34661
+Houston,21006
+Detroit,20574
+St. Louis,18409
+Boston,16700
+Buffalo,15841
+Bakersfield,14747
+Indianapolis (Remainder),14704
+Madera,12958
+Visalia,12199
+Milwaukee,12162
+Washington,12053
+Ware (census name for Ware Center),11489
+Waukesha,11433
+Middletown,11400
+Davenport,10896
+Baton Rouge,10599
+Oak Park,10320
+Flint,10318
+Tecumseh,10273
+Chicopee,10222
+Lynn,10213
+Grand Rapids,10101
+East Syracuse,10038
+East Providence,10025
+East Meadow,10013
+Clovis,9595
+Cedar Rapids,9582
+Charlotte,9575
+Parlier,9527
+Rochester,9509
+Gary,9503
+Conyers,9464
+Clinton,9354
+Holland,9298
+Westfield,9260
+Truro,8943
+Victorville,8933
+Kansas City,8925
+San Diego,8708
+Burlington,8671
+New Haven,8610
+White Plains,8603
+Lancaster,8552
+El Paso,8483
+Olancha,8176
+Essex,8128
+Allen Park,8027
+Albany,7918
+Grants Pass,7907
+Lakeview,7849
+Lansing,7812
+Amherst,7793
+Elmira,7790
+Altamont,7761
+Ypsilanti,7760
+Pendleton,7753
+Dearborn,7714
+Banning,7710
+Bend,7706
+Lawrence (Township of),7632
+Upland,7619
+Mission Viejo,7601
+Niagara Falls,7591
+Grapevine,7579
+Portland,7572
+New Albany,7535
+La Grande,7452
+Searles Valley,7448
+Sandpoint,7409
+St. Joseph,7397
+Shafter,7395
+Hesperia,7362
+Fresno,7331
+Barstow,7304
+Colorado Springs,7295
+Schenectady,7293
+Holtsville,7193
+Camden,7181
+Pinehurst (Pine Creek),7153
+Anaheim,7141
+Goleta,7080
+Burns,6908
+Fontana,6873
+Northbrook,6859
+Fairhaven (Town of),6730
+Pico Rivera,6679
+Dunkirk,6654
+Albuquerque,6565
+Los Angeles,6560
+Maricopa,6490
+Haverhill,6394
+Boise (corporate name Boise City),6344
+Hawaii Volcanoes National Park,6300
+Tonawanda,6220
+Grantsville,6190
+Tucker,6189
+Bishop,6164
+Milton,6137
+Lone Pine,6094
+Bismarck,6040
+Louisville,6020
+Cornwall,5936
+Grangeville,5908
+Emmetsburg,5876
+Racine,5876
+Millbrook,5861
+Birmingham,5846
+Independence,5793
+Kemmerer,5775
+Tracy,5745
+Worcester,5685
+Bountiful,5618
+Las Vegas,5565
+Nederland,5501
+Long Beach,5489
+Augusta,5416
+Columbus (Remainder),5391
+Anacortes,5349
+Newcastle,5342
+Rutland,5330
+Salt Lake City,5276
+Corcoran,5247
+Hanford,5241
+Arvin,5181
+Beltsville,5148
+Livonia,5137
+Green River,5105
+Manistee,5095
+Pinellas Park,5068
+Franklin Furnace,5060
+Newbury,5041
+Chicago,4852
+Uxbridge,4849
+Modesto,4839
+Lewiston,4830
+Rubidoux,4818
+Roseville,4818
+Colusa,4780
+San Luis Obispo,4763
+Underhill (Town of),4757
+Sacramento,4727
+Mira Loma,4712
+Bennington,4706
+Palm Springs,4696
+Peterborough (Peterboro),4660
+Pocatello,4615
+Seattle,4613
+Calexico,4605
+Perris,4585
+Santa Clarita,4570
+Compton,4482
+Indio,4439
+Santa Maria,4352
+Porterville,4261
+Sunrise Manor,4259
+Laplace (La Place),4258
+Greater Upper Marlboro,4235
+Rangely,4227
+Edgewood,4154
+Cincinnati,4147
+Iowa City,4096
+Waterloo,4096
+Muscatine,4075
+Omaha,4075
+Yuba City,4073
+Mojave,4041
+New Paris,4024
+Salmon,4007
+Londonderry,4004
+Belding,3995
+Ladue,3990
+Ontario,3990
+Springfield,3966
+Fulton,3922
+Pittsburgh,3918
+Azusa,3896
+Stow,3858
+Prineville,3828
+Cockeysville,3827
+Montgomery,3752
+Arnold,3717
+Roosevelt,3704
+Huron,3649
+Casper,3646
+Turlock,3599
+Brookhurst,3554
+Memphis,3471
+East Highland Park,3456
+Santa Barbara,3454
+Kittery (census name for Kittery Center),3359
+Manteca,3287
+Jamestown,3210
+Moscow,3178
+Newark,3147
+Twentynine Palms,3139
+Otisville,3128
+Port Huron,3082
+Sedro Woolley (corporate name Sedro-Woolley),3057
+Wadsworth,3057
+Knowlton (Township of),3045
+North Laurel,2915
+Greenfield,2874
+Riverhead,2817
+Battlement Mesa,2764
+Lackawanna,2756
+Newburyport,2734
+East Hartford,2688
+Hartford,2679
+Herriman,2641
+Bayport,2585
+Agawam,2543
+Vernal,2538
+Williston,2521
+Sault Ste. Marie,2462
+Ridgecrest,2453
+Braidwood,2453
+Klamath,2427
+Lochearn,2352
+Steubenville,2345
+Hayden,2298
+Burbank,2269
+Glen Burnie,2202
+Horicon,2189
+Wichita,2151
+Saint Marks,2085
+Charlestown,2047
+Fairbanks,1980
+Winston-Salem,1963
+Hazard,1853
+Stafford (Stafford Hollow),1827
+Athens,1826
+Fort Lee,1801
+Glens Falls,1799
+South Lake Tahoe,1794
+Jean,1792
+South Bend,1781
+Danbury,1776
+North Las Vegas,1768
+El Cajon,1758
+Zion,1750
+Bonners Ferry,1734
+Schurz,1718
+Spring Valley,1694
+Fort Wayne,1646
+Easton (Easton Center),1603
+Big Pine,1591
+Bridgeton,1551
+Mason City,1490
+Kekoskee,1487
+West Los Angeles,1461
+Riviera Beach,1449
+Dunn Center,1427
+Glenrock,1417
+Coos Bay,1394
+Thomaston,1392
+Waverly,1384
+Bayonne,1366
+Pittsfield,1345
+Flemington,1336
+Boulder City,1325
+Leavenworth,1294
+Riverton,1293
+Midvale,1286
+Cave Rock,1192
+Savannah,1185
+Elizabeth,1182
+South Valley,1160
+Green Park,1094
+Henderson,1075
+Richmond,1035
+Dallas,1027
+Deer Park,1002
+Bayside,935
+Saginaw,912
+North Valley,820
+Sinclair,799
+Hugo,788
+Baltimore,775
+Enfield (Thompsonville),739
+Presque Isle,731
+Mountain Home,731
+Phoenix,703
+Bayamon,702
+McMinnville,699
+Grand Junction,685
+Alpena,663
+Coloma,658
+Smithfield,590
+Laramie,584
+Spanish Fork,580
+Commerce City,578
+Lindon,575
+Erda,575
+West Valley City,575
+Harrisville,573
+Enoch,563
+Price,559
+James Town,553
+Boise City (corporate name for Boise),548
+Tucson,547
+Hurricane,547
+Arden-Arcade,534
+Fort Totten,499
+Incline Village-Crystal Bay,490
+Jackson,432
+Cody,417
+Lovell,412
+Rock Springs,395
+Cleveland,395
+Glenwood Springs,393
+Anadarko,387
+Sheridan,384
+Port Arthur,376
+Cheyenne,372
+Coeur d'Alene,365
+San Jose,365
+Torrington,365
+Lucerne Valley,364
+East Brunswick,364
+Tacoma,364
+Reno,357
+Magna,326
+East Orange,181
+Diamondville,172
+Nashua,120
+Trona,84
+Murray,53
+South Haven,36
+Scottville,31
+Blaine,29
+Signal Hill,23
+Peach Springs,7
+Flagstaff,1

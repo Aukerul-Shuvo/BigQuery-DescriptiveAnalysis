@@ -1,0 +1,16 @@
+Table,Rows,Columns
+air_quality_annual_summary,3962246,55
+co_daily_summary,9002472,29
+hap_daily_summary,9881421,29
+lead_daily_summary,900526,29
+no2_daily_summary,4536052,29
+nonoxnoy_daily_summary,7872831,29
+o3_daily_summary,11171542,29
+pm10_daily_summary,4870448,29
+pm25_frm_daily_summary,6640118,29
+pm25_nonfrm_daily_summary,5525904,29
+pressure_daily_summary,2262530,29
+rh_and_dp_daily_summary,3565353,29
+so2_daily_summary,12546228,29
+temperature_daily_summary,7249105,29
+wind_daily_summary,10808702,29

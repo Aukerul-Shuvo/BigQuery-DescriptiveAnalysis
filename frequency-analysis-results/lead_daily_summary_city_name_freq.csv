@@ -1,0 +1,922 @@
+city_name,count
+Not in a city,110870
+Herculaneum,47047
+Dallas,27208
+Philadelphia,21618
+Chicago,15047
+Bristol,11859
+Laureldale,11804
+El Paso,11404
+Omaha,10169
+Nashville,8730
+Minneapolis,8301
+Houston,7956
+Muncie,7417
+Cleveland,7288
+East Helena,7275
+Frisco,7028
+Hammond,6585
+Kansas City,6176
+Tampa,6080
+Columbia,5658
+Denver,5657
+Lyons (corporate and RR name for Lyon Station),5330
+Los Angeles,5232
+Vernon,5232
+East Chicago,5134
+Wichita,5105
+Eagan,5098
+Georgetown,5087
+Indianapolis (Remainder),4992
+Granite City,4893
+Indianapolis,4803
+San Jose,4609
+New York,4589
+Portland,4508
+Tulsa,4481
+Baltimore,4419
+Knoxville,4308
+Long Beach,4141
+Phoenix,4067
+Memphis,4053
+Columbus,4051
+North Charleston,4026
+Pittsburgh,3960
+East Liverpool,3928
+Detroit,3906
+Scotchtown,3871
+St. Paul,3796
+Council Bluffs,3776
+Rubidoux,3521
+Boston,3493
+Greenville,3463
+Oklahoma City,3409
+Commerce City,3287
+Richmond,3253
+Springfield,3246
+Duluth,3078
+Troy,3056
+Washington,3047
+Bakersfield,2988
+Stockton,2979
+Bellefontaine,2975
+Leeds,2955
+Charleston,2951
+Seattle,2869
+Picher,2837
+Jacksonville,2651
+Riverside,2609
+El Cajon,2572
+Topeka,2487
+San Bernardino,2440
+Pico Rivera,2405
+San Francisco,2391
+Dearborn,2371
+Upland,2349
+Dentsville (Dents),2349
+San Antonio,2328
+Milwaukee,2317
+Pevely,2302
+Birmingham,2275
+Sacramento,2268
+San Diego,2254
+Tucson,2177
+Fort Worth,2170
+Calexico,2157
+Fresno,2108
+North Brunswick Township,2075
+Chester,2040
+Marion,2036
+Newark,2023
+Salt Lake City,2013
+Jackson,1967
+Commerce,1933
+Buffalo,1929
+Grand Rapids,1923
+Avalon,1856
+New Orleans,1855
+Albuquerque,1851
+Rosemount,1826
+Fremont,1818
+Marietta,1792
+Tijuana,1789
+Peoria,1765
+Ladue,1758
+East Conemaugh (corporate name for Conemaugh),1741
+Delta,1737
+Maywood,1730
+Brownsville,1727
+Atlanta,1722
+Magna,1722
+Providence,1719
+Huntington,1693
+Gary,1683
+Weirton,1675
+St. Louis,1670
+Schiller Park,1655
+Wilmington,1652
+Greer,1641
+Concord,1633
+Honolulu,1621
+Lynwood,1610
+Flint,1610
+East Saint Louis,1603
+Pittsburg,1594
+Rock Hill,1592
+Braddock,1582
+Alsip,1571
+Park Hills,1566
+Crystal City,1545
+Wheeling,1537
+Wood River,1505
+Nilwood,1503
+Mexicali,1479
+Palmerton,1470
+Decatur,1452
+Myrtle Beach,1428
+Simi Valley,1426
+Laplace (La Place),1423
+Kellogg (Kellogg-Wardner),1415
+Monessen,1404
+Cincinnati,1376
+Nitro,1346
+Belding,1327
+Beaumont,1325
+New Haven,1298
+Laredo,1295
+Virginia,1288
+Corpus Christi,1285
+Rochester,1277
+Colorado Springs,1251
+Saint Petersburg,1243
+Baton Rouge,1233
+Virginia Beach,1229
+Morgantown,1224
+Summit,1221
+Miami,1195
+San Juan,1188
+Rockford,1178
+Compton,1160
+Burbank,1156
+Texas City,1129
+Sumter,1125
+Allen Park,1120
+Waterbury,1085
+Albany,1080
+Anaheim,1069
+Louisville,1068
+Lancaster,1052
+Norfolk,1051
+Rockwood,1049
+Leadville,1042
+Richfield,1040
+Groveton,1032
+Canton,1030
+South Charleston,1026
+Spartanburg,1025
+Jersey City,1021
+North Little Rock,1019
+Forest City,1016
+Hawthorne,1009
+Fairmont,1003
+Sans Souci,1000
+Hayden,998
+Florence,989
+Joliet,987
+Greenwood,985
+Saco,960
+Kohler,957
+Middletown,953
+Wyoming,953
+Parkersburg,949
+Santa Barbara,946
+Hopewell,940
+Martinsburg,928
+Hialeah,927
+Industry (corporate name for City of Industry),925
+Port Huron,923
+Portage,921
+Biddeford (RR name Biddeford-Saco),918
+Carlsbad,916
+Goodland,915
+Green Park,914
+Cayce,911
+East Moline,901
+Bridgeport,900
+Inver Grove Heights (RR name Inver Grove),897
+Chula Vista,896
+Tacoma,889
+Butte-Silver Bow (corp name for Butte),886
+Muskegon,886
+Northbrook,885
+Hartford,883
+Napa,882
+San Rafael,878
+Northampton,878
+Redwood City,876
+Citrus Heights,872
+Anchorage,871
+Vallejo,871
+Anaconda-Deer Lodge County,867
+Austin,864
+Azusa,860
+Santa Rosa,860
+Livermore,857
+Niagara Falls,851
+Terrell,845
+Santa Fe Springs,838
+Bayport,835
+Pompano Beach Highlands,824
+Kalamazoo,822
+Bridgeville,816
+Savanna,807
+Beaufort,797
+River Rouge,793
+Mamaroneck,789
+Madison Heights,780
+Hybla Valley,773
+Lansing,771
+Hollywood,756
+Bangor,756
+Pasadena,751
+East Lake-Orient Park,750
+Union City,747
+Orlando,739
+Erie,738
+Largo,735
+Merriam,734
+Trona,733
+Camden,725
+York,723
+East Highland Park,718
+Des Moines,716
+Reston,709
+Clifton,695
+Newport,695
+Presque Isle,684
+Concordia,683
+Fairbanks,679
+Dodge City,678
+Apple Valley,670
+Amarillo,669
+Metairie,660
+Globe,658
+Kingsport,654
+Stamford,649
+Little Rock,644
+Roseville,643
+Cranston,622
+Syracuse,621
+Atlantic City,618
+Liberty,612
+Corinth,601
+Lewiston,598
+Moraine,594
+Roanoke,591
+Blaine,589
+Chanute,587
+Saginaw,586
+Raleigh,578
+Moundsville,574
+Mount Joy,571
+Evansville,567
+Savannah,563
+Oildale,559
+Scottsdale,557
+Guaynabo,553
+Macon,548
+Modesto,544
+Pinellas Park,544
+Pennsauken (Township of),543
+Harrisburg,541
+Farrell,540
+Mobile,540
+Bensenville,537
+Natchez,533
+Douglas,533
+St. Louis Park,528
+Chesapeake,527
+Winter Park,525
+Norwalk,520
+Reading,506
+Taft,505
+Pinehurst (Pine Creek),501
+Mesa Verde National Park,497
+Anderson,496
+Fort Wayne,495
+Conshohocken,494
+Clarksburg,493
+Worcester,491
+Pueblo,488
+Cheverly,485
+East Meadow,483
+Pearl City,483
+McDonald,477
+Hamburg,477
+Minturn,476
+Duryea,466
+Bismarck,465
+Swissvale,464
+Charlotte,464
+Fontana,462
+Lowell,461
+Bedford Park,461
+Kern City,460
+Salinas,459
+Bethlehem,457
+McMinnville,450
+Twentynine Palms,450
+Elmhurst,450
+Harlingen,448
+Huntsville,444
+Bethel Island,444
+Akron,441
+Arden-Arcade,441
+Chattanooga,440
+China Lake (Naval Weapons Center),437
+Paso Robles,435
+Santa Maria,435
+Chico,434
+Boise (corporate name Boise City),433
+Victorville,432
+West Los Angeles,430
+Fort Bragg,424
+Lompoc,422
+Jeffersonville,416
+Palm Springs,412
+Beltsville,408
+Davenport,407
+New Britain,405
+El Toro,405
+Banning,401
+Rosarito,399
+Crestline,398
+Los Alamitos,397
+Fargo,393
+Midland,391
+East Providence,390
+Deer Park,389
+Warrensville Heights,389
+Odessa,388
+Eddystone,386
+North Braddock,386
+Auburn,384
+Ann Arbor,383
+Barstow,377
+Duquesne,376
+Lorton,375
+Whiting,375
+Springdale,374
+Yukon,372
+Clayton,368
+El Centro,367
+McKittrick,366
+Southfield,363
+Redlands,362
+Reseda,362
+San Manuel,357
+Glendale,355
+Midlothian,355
+La Habra,355
+East Pittsburgh,353
+St. Cloud,351
+Levittown,350
+Baker,349
+Midwest City,349
+Brackenridge,349
+Indio,345
+Clairton,343
+Bellevue,340
+Madison,337
+Port Arthur,335
+River Forest,335
+Trenton,334
+Scranton,334
+Ajo,333
+Abilene,333
+Montezuma Castle National Monument,332
+Arlington Heights,330
+Farmers Branch,329
+Elgin,327
+San Luis Obispo,327
+Harvey,327
+Mesa,326
+Calumet City (PU RR name Calumet Park (sta.)),326
+Grand Canyon,325
+Sterling Heights,323
+Wilkes-Barre,322
+Sapulpa,320
+Lakeport,320
+Lennox,320
+Lexington-Fayette (corporate name for Lexington),320
+Lubbock,320
+Covington,319
+Lyons,318
+Des Plaines,317
+Cicero,317
+Seven Oaks,314
+Montana City,313
+Greensboro,313
+Irmo,310
+Rockville,309
+Nesquehoning,308
+Lawton,306
+Blue Island,305
+Eugene,305
+Baytown,303
+Morenci,300
+Waco,297
+Clemson,294
+Dillon,294
+Harrison Township,293
+Alexandria,292
+Catano,289
+Augusta,289
+Wichita Falls,288
+Winston-Salem,288
+Bryn Athyn,287
+Laurens,286
+El Monte,286
+Rome,285
+Nashua,283
+Tyler,274
+Augusta-Richmond County (Remainder),274
+Ogden,273
+Durham,272
+Organ Pipe Cactus National Monument,271
+Cottonwood West,271
+Gadsden,270
+Sunrise Manor,269
+Pitcairn,268
+Brunswick,268
+Biloxi,267
+Nogales,265
+Provo,265
+Carbondale,265
+McLean,265
+Circleville,264
+Londonderry,262
+Palatine,262
+Chelsea,261
+Chicago Heights,259
+Anoka,258
+Danbury,257
+Green Bay,256
+Arlington,253
+Sterling,248
+Shreveport,247
+Coraopolis,245
+Texarkana,244
+Medford,241
+Swarthmore,239
+Ponce,238
+Youngstown,237
+Channelview,236
+Valrico,236
+Pryor Creek (corporate name for Pryor),236
+Mapleton,233
+Perris,232
+Davie,232
+Northridge,231
+Dayton,230
+Gainesville,229
+Garland,228
+Irving,227
+Bartonville,226
+Tallmadge,225
+Grand Junction,225
+Coconut Creek,225
+St. Paul Park,225
+Hampton,224
+Ontario,221
+Portsmouth,220
+Lemont,219
+Otay Mesa,219
+Owensboro,215
+Kenova,214
+Irondequoit (Town of),214
+Grand Forks,214
+Fish Creek,213
+Utica,212
+Bayamon,210
+Dundalk,210
+Kettering,210
+Manchester,206
+Stowe (Township of),206
+Capitan,205
+Cupertino,203
+Toledo,201
+Roy,200
+McAllen,200
+Vassar,199
+Paterson,197
+Lehman Caves National Monument,197
+Vandenberg Air Force Base,195
+Hawaii Volcanoes National Park,194
+Waterford,193
+Meriden,192
+San Carlos,192
+Page,192
+Ypsilanti,192
+Reno,191
+Holland,191
+Las Vegas,190
+Greenwich (Town of),187
+Yuma,186
+Safford,186
+South Bend,185
+Ruskin,184
+Galena Park,182
+Salem,182
+Geneva,182
+Lincoln,181
+Show Low,180
+Lindon,179
+McCook,177
+Sunset Hills,177
+San Benito,176
+Berkeley,175
+West Mifflin,175
+Palo Alto,174
+Warner Robins,174
+Sierra Vista (Garden Canon),173
+Easton,173
+Brownwood,172
+Sequoia National Park,172
+West Reading,171
+Underhill (Town of),171
+Prescott,170
+Rillito,170
+Grosse Ile (Township of),169
+Johnstown,168
+Brockton,168
+Pottstown,167
+Columbus (Remainder),167
+Flossmoor,165
+Milledgeville,165
+Merced,165
+Minot,164
+Endicott,164
+Longview,163
+Allentown,163
+Swoyersville (corporate name for Swoyerville),162
+Niles,162
+Pensacola,161
+Valdosta,159
+Homestead,159
+Flagstaff,158
+Miami Beach,157
+Torrington,157
+North Miami Beach,156
+Nelson,155
+Slippery Rock,154
+Kittery (census name for Kittery Center),152
+Conway,152
+Ansonia,152
+Sharon,152
+Delaware City,152
+Randolph,152
+Elizabeth,151
+North Augusta,151
+Seaford,151
+Burlington (Burlington Center),149
+Braidwood,147
+San Pablo,147
+Aspen,147
+Paul Spur,146
+East Hartford (Town of),145
+Alpena,145
+Lemoyne,145
+New Braunfels,143
+Wallingford (Town of),142
+McCandless Township,142
+Fair Lawn,140
+Brawley,139
+Voluntown,138
+Fayetteville,138
+Holbrook,137
+Margate,137
+Glendora,136
+South Roxana,135
+Grand Prairie,133
+Norwich,130
+Naugatuck,129
+Manchester (Town of),128
+Hollis,128
+Bisbee,127
+Stratford (Town of),126
+Meraux,126
+Haddam,125
+Willimantic,123
+Clarkdale,122
+Superior,122
+Carrollton,121
+San Jacinto,119
+Athens (corp name Athens-Clarke County),119
+Butte-Silver Bow (Remainder),118
+Eagar,117
+Terre Haute,117
+Chino,115
+Milford,115
+Lawrence,115
+East York,114
+Folcroft,113
+Casa Grande,113
+Media,112
+Clute (corporate name for Clute City),110
+Big Spring,110
+Throop,109
+Mount Pleasant,108
+Tarrant (corporate name for Tarrant City),108
+Burlington,107
+Steelton,107
+Michigan City,107
+Ambridge,107
+Altoona,107
+Dickson,107
+Beaver Falls,106
+Williamsport,105
+Seabrook,105
+Welby,104
+Santa Ana,103
+Marcus Hook,103
+Kenner,102
+Lorain,102
+Lake Havasu City,102
+New Castle,101
+New Albany,100
+Spokane,98
+Bountiful,97
+Hesperia,95
+Dunedin,93
+Sonora,93
+Clearwater,88
+Webb City,87
+West Chester,87
+San Marcos,86
+Aurora,85
+Barre,85
+East Alton,84
+Phillipsburg,84
+Morehead City,83
+Sauget (Monsanto),82
+League City,81
+Pocatello,80
+Rutland,80
+Ellwood City,79
+Parker,78
+Benicia,78
+Berlin,77
+Sewickley,77
+Lewisville,76
+Corsicana,75
+Waxahachie,74
+Euless,74
+Coeur d'Alene,74
+Keene,74
+Kingman,72
+Silver Spring,71
+Plant City,71
+Waterloo,70
+Weslaco,70
+West Haven,69
+Englewood,67
+South Valley,67
+Parlier,64
+Steamboat Springs,64
+East Jordan,63
+Alvin,63
+Paducah,62
+Shirley,62
+Perrine,61
+East Farmingdale,60
+Denton,59
+Vancouver,59
+Tarpon Springs,59
+Lake Forest Park,59
+Cloquet,59
+Telluride,58
+Issaquah,58
+Bridgeton,58
+Athens,58
+Henderson,57
+Cedar Rapids,56
+Juneau,56
+Groton,56
+Snohomish,56
+La Porte,56
+West Valley,55
+Onamia,54
+Ashland,54
+Marrero,54
+Red Lake,54
+Pittston,54
+Dubuque,50
+Waggaman,49
+Golden,49
+Mansfield Depot (Mansfield (sta.)),49
+Morristown,48
+Fort Lauderdale,47
+Putnam (Town of),47
+Steubenville,46
+Noatak,45
+Oak Park,45
+Temple Terrace,43
+Palm Beach,43
+South Tucson,43
+Bayonne,43
+Denison,42
+St. Ann,42
+Helena Valley Southeast,41
+Rock Island,40
+Westland,39
+Waukegan,39
+Kokomo,39
+Brook Park,39
+Grants Pass,38
+North Valley,38
+Wilmette,36
+Franklin Park,36
+Madeira,36
+Billings,35
+Charlotte Amalie,35
+Spruce Pine,35
+Berea,35
+Saint Johns,34
+Lockwood,34
+Due West,33
+Mansfield,33
+Versailles,32
+Glassboro,32
+Rio Rancho Estates,32
+Bernalillo,32
+Glen Burnie,32
+Moline,31
+Morton Grove,31
+Cumberland,31
+Lynn,30
+Racine,30
+Great Falls,30
+Fairfield,30
+Plymouth,29
+Lincoln Park,29
+Essex,29
+Buechel,29
+Hickory,29
+St. Matthews,29
+Hot Springs,29
+Livonia,29
+Sherman,29
+Ferry Pass,28
+Okolona,28
+New Bedford,28
+Carson,28
+Madawaska (census name for Madawaska Center),28
+Kenosha,28
+Hillside,28
+Newbury,27
+Yonkers,27
+Slidell,27
+Pleasure Ridge Park,27
+Shively,27
+Waupaca,27
+Danville,26
+Elkton,25
+Collinsville,24
+Elizabethtown,24
+Detroit Lakes,24
+Cahokia,24
+Cary,24
+Naperville,24
+Alton,24
+Petersburg,24
+Wheaton,24
+Laurel,24
+Addison,24
+West Chicago,24
+Eau Claire,24
+Fall River,23
+East Peoria,23
+Galesburg,23
+Port Neches,23
+Bowling Green,23
+Darien,23
+Ottawa,23
+Lake Bluff,22
+Belleville,22
+Victoria,22
+Frankfort,22
+Rapid City,22
+Milan,22
+South Beloit,22
+Hyattsville,22
+Laconia,22
+Salisbury,21
+Bradley,21
+Evanston,21
+Owosso,20
+Costa Mesa,20
+Pekin,20
+Orland Park,20
+Quincy,20
+Galena,20
+Haverhill,20
+Champaign,20
+Lockport,19
+Missoula,19
+Cambridge,19
+Menominee,19
+Winnetka,19
+Manitowoc,19
+Belle Chasse,18
+Coshocton,17
+DeKalb,17
+Mount Vernon,17
+Independence,17
+Catlettsburg,17
+Blue Lake,17
+Frederick,16
+Franklin,16
+Romeoville (RR name Romeo),16
+Lemay,15
+Effingham,15
+Riverview,15
+Nacogdoches,14
+Ferguson,13
+La Grange,12
+Winchester,12
+Mayfield,12
+Princeton,12
+Russellville,12
+London,12
+Somerset,12
+Beaver Dam,12
+Madisonville,12
+Leitchfield,12
+Rosemont,12
+Robinson,12
+Clyde,12
+Highland Heights,12
+Shepherdsville,12
+Calvert City (RR name Calvert),12
+Westbrook,11
+Erlanger,11
+Cynthiana,11
+Corbin,11
+Fort Thomas,11
+Middlesborough (corporate name for Middlesboro),11
+Hazard,11
+Pineville,10
+Hopkinsville,10
+Canon City,10
+Glasgow,10
+Waukesha,10
+Prestonsburg,10
+Olive Hill,10
+Traverse City,10
+Central City,9
+Rockdale,9
+Lewisport,9
+Maysville,8
+Shelbyville,8
+Thompson Falls,8
+Pikeville,8
+Alcoa,8
+Belpre,8
+Harlan,8
+Park Forest,7
+Wisconsin Rapids,7
+Skokie (Niles Center),7
+Bloomington,7
+Southglenn,6
+Brighton,6
+Rifle,6
+Nazareth,6
+Greeley,6
+Galveston,6
+Boulder,6
+Durango,6
+Montrose,6
+Cortez,6
+Fort Collins,6
+De Beque,6
+Trinidad,5
+Beckley,5
+Fruita,4
+Joseph City,4
+Linthicum (census name for Linthicum Heights),4
+Longmont,4
+Solvay,4
+La Follette,3
+Arvada,3
+Edwardsville,1
+Crystal Lake,1
+Oak Ridge,1
+Rock Falls,1
+Glenview,1
+Johnson City,1
+Pottsville,1
+Plainfield,1
+Crete,1
+Lansdale,1
+Harriman,1
