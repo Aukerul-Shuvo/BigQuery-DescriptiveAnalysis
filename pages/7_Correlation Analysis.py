@@ -3,23 +3,23 @@ import pandas as pd
 import plotly.graph_objs as go
 
 # Set page config
-st.markdown(
-    """
-    <style>
-        /* Main content area */
-        .stApp {
-            background-color: #142D55;
-        }
+# st.markdown(
+#     """
+#     <style>
+#         /* Main content area */
+#         .stApp {
+#             background-color: #142D55;
+#         }
         
-        /* Sidebar */
-        .css-1l02zno {
-            background-color: #142D55;
-        }
+#         /* Sidebar */
+#         .css-1l02zno {
+#             background-color: #142D55;
+#         }
         
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
 def main():
     # List of tables and results directory (same as the Dash app)
     tables = [

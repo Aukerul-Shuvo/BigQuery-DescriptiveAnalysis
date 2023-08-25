@@ -2,23 +2,23 @@ import streamlit as st
 import leafmap.foliumap as leafmap
 
 # Set page config
-st.markdown(
-    """
-    <style>
-        /* Main content area */
-        .stApp {
-            background-color: #142D55;
-        }
+# st.markdown(
+#     """
+#     <style>
+#         /* Main content area */
+#         .stApp {
+#             background-color: #142D55;
+#         }
         
-        /* Sidebar */
-        .css-1l02zno {
-            background-color: #142D55;
-        }
+#         /* Sidebar */
+#         .css-1l02zno {
+#             background-color: #142D55;
+#         }
         
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
 
 with open("custom.css") as f:
     custom_css = f.read()
@@ -46,6 +46,7 @@ title = "Air Quality Patterns: A Data Mining Approach to Big Data"
 font_family = "Times New Roman"  # Example font family
 font_weight = "bold"  # Example font weight
 font_size = "5px"  # Example font size
+
 st.markdown(
     f'<h1 style="text-align: center; font-family: {font_family}; font-weight: {font_weight}; font_size: {font_size}; ">{title}</h1>', 
     unsafe_allow_html=True

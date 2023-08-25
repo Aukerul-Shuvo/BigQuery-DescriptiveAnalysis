@@ -8,23 +8,23 @@ from sklearn.preprocessing import StandardScaler
 import db_dtypes
 import gc
 # Set page config
-st.markdown(
-    """
-    <style>
-        /* Main content area */
-        .stApp {
-            background-color: #142D55;
-        }
+# st.markdown(
+#     """
+#     <style>
+#         /* Main content area */
+#         .stApp {
+#             background-color: #142D55;
+#         }
         
-        /* Sidebar */
-        .css-1l02zno {
-            background-color: #142D55;
-        }
+#         /* Sidebar */
+#         .css-1l02zno {
+#             background-color: #142D55;
+#         }
         
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
 # List of tables
 tables = [
     "co_daily_summary",

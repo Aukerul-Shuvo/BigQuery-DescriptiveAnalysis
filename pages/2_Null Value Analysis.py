@@ -3,24 +3,24 @@ import pandas as pd
 import plotly.graph_objs as go
 import os
 # Set page config
-st.markdown(
-    """
-    <style>
-        /* Main content area */
-        .stApp {
-            background-color: #142D55;
-        }
+# st.markdown(
+#     """
+#     <style>
+#         /* Main content area */
+#         .stApp {
+#             background-color: #142D55;
+#         }
         
-        /* Sidebar */
-        .css-1l02zno {
-            background-color: #142D55;
-        }
+#         /* Sidebar */
+#         .css-1l02zno {
+#             background-color: #142D55;
+#         }
         
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
-# List of tables
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
+# # List of tables
 tables = [
     "air_quality_annual_summary",
     "co_daily_summary",

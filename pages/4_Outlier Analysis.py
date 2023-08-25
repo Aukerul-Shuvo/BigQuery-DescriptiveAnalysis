@@ -6,23 +6,23 @@ import plotly.express as px
 import db_dtypes
 # List of tables
 # Set page config
-st.markdown(
-    """
-    <style>
-        /* Main content area */
-        .stApp {
-            background-color: #142D55;
-        }
+# # st.markdown(
+#     """
+#     <style>
+#         /* Main content area */
+#         .stApp {
+#             background-color: #142D55;
+#         }
         
-        /* Sidebar */
-        .css-1l02zno {
-            background-color: #142D55;
-        }
+#         /* Sidebar */
+#         .css-1l02zno {
+#             background-color: #142D55;
+#         }
         
-    </style>
-    """,
-    unsafe_allow_html=True,
-)
+#     </style>
+#     """,
+#     unsafe_allow_html=True,
+# )
 tables = [
     "co_daily_summary",
     "hap_daily_summary",
