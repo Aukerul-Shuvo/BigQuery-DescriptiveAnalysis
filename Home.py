@@ -26,7 +26,7 @@ with open("custom.css") as f:
 
 # Customize the sidebar
 markdown = """
-GitHub Repository: <https://github.com/giswqs/streamlit-multipage-template>
+GitHub Repository: <https://github.com/Aukerul-Shuvo/BigQuery-DescriptiveAnalysis>
 """
 
 # st.sidebar.title("About")
